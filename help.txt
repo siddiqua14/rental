@@ -1,0 +1,2 @@
+http://localhost:8080/v1/property/list
+_, err := o.QueryTable(new(models.RentalProperty)).Limit(80).All(&rentalProperties)
