@@ -39,7 +39,9 @@ The Booking App fetches and stores hotel and rental property data from the Booki
 - **Property Details**:
   - **Route**: `/v1/property/details`
   - **Description**: Provides detailed information for a specific property.
-
+#### Note: 
+The system can use a pre-populated database `BookingCom.sql` for property-related endpoints (`/v1/property/list` and `/v1/property/details`). 
+This database contains exported data that can be accessed directly without calling external APIs for storing data into database
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
