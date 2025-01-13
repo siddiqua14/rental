@@ -15,10 +15,10 @@ import (
 
 func init() {
 
-    web.Router("/fetch_locations", &controllers.LocationController{})
-	web.Router("/fetch_stays_data", &controllers.LocationController{}, "get:FetchStaysData")
-    web.Router("/fetch-hotel-details", &controllers.LocationController{}, "get:FetchHotelDetails")
-    web.Router("/fetch-hotel-images-and-description", &controllers.LocationController{}, "get:FetchHotelImagesAndDescriptions")
+    //web.Router("/fetch_locations", &controllers.LocationController{})
+	//web.Router("/fetch_stays_data", &controllers.StayData{})
+    //web.Router("/fetch-hotel-details", &controllers.FetchHotelDetails{})
+    //web.Router("/fetch-hotel-images-and-description", &controllers.FetchHotelImagesAndDescriptions{})
     // Page route
     // Property listing endpoint
     web.Router("/v1/property/list", &controllers.PropertyController{})

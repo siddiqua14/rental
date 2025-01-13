@@ -49,12 +49,10 @@ func (c *PropertyDetailsController) Get() {
 
 		// Construct the property details
 		propertyInfo := map[string]interface{}{
-			"location": map[string]interface{}{
+			
 				"dest_id":   location.DestId,
 				"dest_type": location.DestType,
-				"value":     location.Value,
-			},
-			"rental_property": map[string]interface{}{
+				"value":     location.Value,	
 				"IDHotel":      rentalProperty.IDHotel,
 				"HotelID":      rentalProperty.HotelID,
 				"Location":     rentalProperty.Location,
@@ -68,8 +66,6 @@ func (c *PropertyDetailsController) Get() {
 				"Guests":       rentalProperty.Guests,
 				"Amenities":    rentalProperty.Amenities,
 				"CityInTrans":  rentalProperty.CityInTrans,
-			},
-			"property_details": map[string]interface{}{
 				"description": propertyDetails.Description,
 				"images": []string{
 					propertyDetails.ImageUrl1,
@@ -78,7 +74,7 @@ func (c *PropertyDetailsController) Get() {
 					propertyDetails.ImageUrl4,
 					propertyDetails.ImageUrl5,
 				},
-			},
+			
 		}
 
 		response = append(response, propertyInfo)

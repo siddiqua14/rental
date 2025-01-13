@@ -9,12 +9,17 @@ import (
 
     "rental/models"
     "github.com/beego/beego/v2/client/orm"
-    
+    "github.com/beego/beego/v2/server/web"
     
 )
+type FetchHotelImagesAndDescriptions struct {
+    web.Controller
+    apiBaseUrl string
+    apiKey     string
+}
 
 // FetchHotelImagesAndDescriptions fetches images and descriptions for hotels
-func (c *LocationController) FetchHotelImagesAndDescriptions() {
+func (c *FetchHotelImagesAndDescriptions) Get() {
     o := orm.NewOrm()
 
     // Retrieve all RentalProperty entries (limit to 20)
