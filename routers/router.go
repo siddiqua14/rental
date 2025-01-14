@@ -15,7 +15,7 @@ import (
 
 func init() {
 
-    //web.Router("/fetch_locations", &controllers.LocationController{})
+    web.Router("/fetch_locations", &controllers.LocationController{})
 	//web.Router("/fetch_stays_data", &controllers.StayData{})
     //web.Router("/fetch-hotel-details", &controllers.FetchHotelDetails{})
     //web.Router("/fetch-hotel-images-and-description", &controllers.FetchHotelImagesAndDescriptions{})
