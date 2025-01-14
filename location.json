@@ -1,0 +1,3027 @@
+[
+    {
+      "LocationId": "2306",
+      "Value": "Central New York City, New York, New York, United States",
+      "id:10199551": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Room service"
+        ],
+        "Bedroom": 9,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/495964544.jpg?k=a9e0ee77c0c7acea78c5720b825941eab96e54880001fa9ad99e77c951011b27\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/495964553.jpg?k=37126a9682622f1c8e5b82330f4bc1ecc904ed45e3bc47d9fee8bcf23c51c0a5\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/495964560.jpg?k=05d5643a4635ebac5aa62063060f5b5954dbc4a4636a095b0b5c9d996cc77390\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/495964562.jpg?k=c93119c3850ea8778e324bc5f3e7b792c93672f6e266f62cc8e04d437d37154c\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/495964566.jpg?k=378d4cf55bc1358a1043a6b2f8cc8878376cd165034e6ec26e41d8bf61d6f5f0\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/495964544.jpg?k=a9e0ee77c0c7acea78c5720b825941eab96e54880001fa9ad99e77c951011b27\u0026o=\u0026hp=1",
+        "HotelID": "us/motto-by-hilton-new-york-city-times-square",
+        "HotelName": "Motto By Hilton New York City Times Square",
+        "ID": 49,
+        "IDHotel": 10199551,
+        "Location": "Central New York City, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$988",
+        "PropertyType": "Hotels",
+        "Rating": 8,
+        "ReviewCount": 1080
+      },
+      "id:270767": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Room service"
+        ],
+        "Bedroom": 6,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/234454878.jpg?k=80c03507de3e0ab79e058f1b90f313024b78bc3cf2c6fcd78239a95a0567f0c0\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/583097003.jpg?k=c98aab1306dfa0429e59034033d7f07adb3cdf14a73489e5a8b11523ff91b8dd\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/341439879.jpg?k=09c6d0d3e13cf0de16e49245a3fd3389bd6ca4b010a05ce7c15929001f221a88\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/341466879.jpg?k=4770b37f7ac81b0f372a54f9f348ddd3ebcf056825e7bd709ef6d1993f05a809\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/341466875.jpg?k=da55833b905849d970cb69168e883571c678be13ab9d070f7212b9c8e33b8af5\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/234454878.jpg?k=80c03507de3e0ab79e058f1b90f313024b78bc3cf2c6fcd78239a95a0567f0c0\u0026o=\u0026hp=1",
+        "HotelID": "us/intercontinental-new-york-times-square",
+        "HotelName": "InterContinental New York Times Square, an IHG Hotel",
+        "ID": 47,
+        "IDHotel": 270767,
+        "Location": "Central New York City, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 0,
+        "Price": "$1,410",
+        "PropertyType": "Hotels",
+        "Rating": 8,
+        "ReviewCount": 1768
+      },
+      "id:5347048": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Room service"
+        ],
+        "Bedroom": 3,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/310727384.jpg?k=84ba5c25fe707c2fafa202c680f8b940bee667019a213dadde54b51c63d862bb\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/419753069.jpg?k=fd34c12051a83bc320c6d082809bfa35831376d55d97b2c1810748fce2d652ba\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/419753105.jpg?k=615344506956e58371e1f4ae7150ebef9aa8dc14c7b8afaef85dc9e81fbadae0\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/419753075.jpg?k=4ea032e6d36c1e2d8bc80a6d057749560a46bb0d96f4fefec3612ed6b9d4ae8f\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/419753110.jpg?k=1e5507d4d4ae94291e07f7e64fc345201621e99509cbcbdc23af7741bf5024d8\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/310727384.jpg?k=84ba5c25fe707c2fafa202c680f8b940bee667019a213dadde54b51c63d862bb\u0026o=\u0026hp=1",
+        "HotelID": "us/hyatt-centric-39th-5th-new-york",
+        "HotelName": "Hyatt Centric Midtown 5th Avenue New York",
+        "ID": 52,
+        "IDHotel": 5347048,
+        "Location": "Central New York City, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$1,583.04",
+        "PropertyType": "Hotels",
+        "Rating": 8,
+        "ReviewCount": 1100
+      },
+      "id:55948": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Pet friendly"
+        ],
+        "Bedroom": 5,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/397320344.jpg?k=6c845edac779802b7dd7227475688f03324f0cbe945186c9f24525aac000ac9c\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/397320349.jpg?k=bdf36183a15b82284fd3cdc0a38645baa7fbac3f2b1b7330045528464e139f75\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/147664684.jpg?k=3b96991f6bf2346c7405542f058876e667abf15de04c6dbb863efa93f7e43d8a\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/42104378.jpg?k=86c66762a7be45f29d0251c24dc4f0e70da96cdb326cf546abc3d4c20e603a8e\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/42104380.jpg?k=54ad77ca2cd9957440dd39ceb4a02289bc748ccb83aed7b60839861c94e81497\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/397320344.jpg?k=6c845edac779802b7dd7227475688f03324f0cbe945186c9f24525aac000ac9c\u0026o=\u0026hp=1",
+        "HotelID": "us/millennium-broadway",
+        "HotelName": "Millennium Hotel Broadway Times Square",
+        "ID": 51,
+        "IDHotel": 55948,
+        "Location": "Central New York City, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$1,076",
+        "PropertyType": "Hotels",
+        "Rating": 7.3,
+        "ReviewCount": 7882
+      },
+      "id:56025": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Pet friendly"
+        ],
+        "Bedroom": 5,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/156569095.jpg?k=afcbcc020b88c535f7ddba19f716a6113f5f41ae53b3ad7a40a8b41857402513\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/156568999.jpg?k=c14c302fa45d740cb22ca4eea3a12cc5ff43c5d329f9be7422bf66bddd38fd2d\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/21790248.jpg?k=d9f911ed4547eca6bc91ccd98a27c03fb9292f864ac179f09eccefecabeccf8e\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/103663994.jpg?k=7866ab4ef5d4fe4b1d684b67ede6e4b1024b83cfddbfd4f456cc56a64f0a0d69\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/43435699.jpg?k=ef8545c269931760e15ef32cbcfa0047f47281f08885820fbee9bc5fb1f30733\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/156569095.jpg?k=afcbcc020b88c535f7ddba19f716a6113f5f41ae53b3ad7a40a8b41857402513\u0026o=\u0026hp=1",
+        "HotelID": "us/the-fifty-sonesta-select-new-york",
+        "HotelName": "The Fifty Sonesta Hotel New York",
+        "ID": 55,
+        "IDHotel": 56025,
+        "Location": "Central New York City, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$923",
+        "PropertyType": "Hotels",
+        "Rating": 7.9,
+        "ReviewCount": 1456
+      },
+      "id:56552": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Pet friendly"
+        ],
+        "Bedroom": 5,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/434772121.jpg?k=3553ae0e23e953566bd4896f6af0fbafc1f292cbe540c0e5060c52de804ef381\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/434772197.jpg?k=d94f84e2a5af43876febec2ecf25fa0ccb00b21e5b9b521c162d9106f32efadf\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/434772183.jpg?k=fa6ec6e0d310b18dc1f86889252fe7e437a13e6cf61c6e758bd1be839c1555fb\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/434772212.jpg?k=d2d033f8f5112a227eb500392dd4afa7536de733f025961fb19ed8f70d3deb11\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/434772239.jpg?k=7b890c51a61a0d9a56ab1a91651147eee2d5a38b4503959769a02ff75e641359\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/434772121.jpg?k=3553ae0e23e953566bd4896f6af0fbafc1f292cbe540c0e5060c52de804ef381\u0026o=\u0026hp=1",
+        "HotelID": "us/the-lexington-new-york",
+        "HotelName": "The Lexington Hotel, Autograph Collection",
+        "ID": 53,
+        "IDHotel": 56552,
+        "Location": "Central New York City, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$1,014",
+        "PropertyType": "Hotels",
+        "Rating": 7.9,
+        "ReviewCount": 695
+      },
+      "id:56700": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Pet friendly"
+        ],
+        "Bedroom": 4,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/430226615.jpg?k=08b34be770e5490fa59cb76cdec19edf6a65fd9a36e4544c091e0996fe6d3fac\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/430226673.jpg?k=7980b462a4a20b8c027c7befcf6a138108ff94a6fae1572a5a69acee2d4e6484\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/430226660.jpg?k=67d9e88d48a9c14701e16ce2f475ca179d7cb3320e5cc9ed97e1285ef68cdd88\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/426596213.jpg?k=5d6b4240e554b0f3de1ef65b65c6f937b90db4b945cf6cf773a59d1fe2f40191\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/426596216.jpg?k=564f5a26a496482d80545be35b632749efe2e3b47c94c80d462af4caf3dca468\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/430226615.jpg?k=08b34be770e5490fa59cb76cdec19edf6a65fd9a36e4544c091e0996fe6d3fac\u0026o=\u0026hp=1",
+        "HotelID": "us/sheraton-new-york-towers",
+        "HotelName": "Sheraton New York Times Square Hotel",
+        "ID": 50,
+        "IDHotel": 56700,
+        "Location": "Central New York City, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$1,362",
+        "PropertyType": "Hotels",
+        "Rating": 6.7,
+        "ReviewCount": 1797
+      },
+      "id:56985": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Pet friendly"
+        ],
+        "Bedroom": 10,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/19082406.jpg?k=17006a7c87dc25893e47ceec1ea1abe180ddead15f7ef8cc3fc261a253da1044\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/320821033.jpg?k=9059113ffb901444051eeb16a91e8acb104bb49410d195d55ed0ccf1aaf8e296\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/503397959.jpg?k=0743d91f911885bc6c9b90a65821b75c5e75646919dfd2341103b877e719132e\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/589897495.jpg?k=65fb2cb1b1224d5ec0fd8146aa3c0c9d428ad1c8c3afc637cadee82a0e5988de\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/52678776.jpg?k=bb0420e531664dd3d0c7a4f150e444dc471dacc2f3e321a26165e26a79f8117f\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/19082406.jpg?k=17006a7c87dc25893e47ceec1ea1abe180ddead15f7ef8cc3fc261a253da1044\u0026o=\u0026hp=1",
+        "HotelID": "us/park-central",
+        "HotelName": "Park Central",
+        "ID": 54,
+        "IDHotel": 56985,
+        "Location": "Central New York City, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 2,
+        "Price": "$1,158.89",
+        "PropertyType": "Hotels",
+        "Rating": 7.3,
+        "ReviewCount": 7420
+      },
+      "id:57473": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Room service"
+        ],
+        "Bedroom": 10,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/321266616.jpg?k=2d9283fb0aad579b3d2f20450e1753b4ff3438cc62c7ecdc9cbd39f2f1ea03cd\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/365992741.jpg?k=2fc96c3b81eab14cf9ca898e6a3082aa7554d9f191476219d0a3423dc041fff9\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/607449831.jpg?k=f1e7d919f91419d09cc11d4825ae638c0c024d5f921f4c3d6de4b588951cf732\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/365992737.jpg?k=5dd1331b624b0131d95d70fed26c98a15ed1f452c51b8ba6e850d78763cef5e2\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/365992727.jpg?k=7d6a79c0cc6c6ac5b4a8187ab0b6f103c30d71d88a96ad43b505a0b3833cd4b3\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/321266616.jpg?k=2d9283fb0aad579b3d2f20450e1753b4ff3438cc62c7ecdc9cbd39f2f1ea03cd\u0026o=\u0026hp=1",
+        "HotelID": "us/new-york-times-square",
+        "HotelName": "M Social Hotel Times Square New York",
+        "ID": 48,
+        "IDHotel": 57473,
+        "Location": "Central New York City, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$1,177.74",
+        "PropertyType": "Hotels",
+        "Rating": 8.4,
+        "ReviewCount": 11756
+      },
+      "id:7577618": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Room service"
+        ],
+        "Bedroom": 10,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/394136757.jpg?k=7514f3d314cd0de028b3d73a07f3e55c5da8ba538e17ad899833c8b34e032ba6\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/394130744.jpg?k=55548795b5a49ff77d6c30b0bedc4397b32d78c599c48ccbe891a17687ec99f7\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/394184075.jpg?k=76f1afe380d50dd9e2e1f8cb92aa8bf0f23c87f34adb7845d71ee4bcd62e657d\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/394134346.jpg?k=14dc97d11701cdde47194f76a9913f7e46613ce99813aa751230fcb1d3fefb0a\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/394130183.jpg?k=ca5403a4c34ecd429a67e2b23f900e62b6a53566ca01c6331f7a535eb99d7851\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/394136757.jpg?k=7514f3d314cd0de028b3d73a07f3e55c5da8ba538e17ad899833c8b34e032ba6\u0026o=\u0026hp=1",
+        "HotelID": "us/hard-rock-new-york",
+        "HotelName": "Hard Rock Hotel New York",
+        "ID": 46,
+        "IDHotel": 7577618,
+        "Location": "Central New York City, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$1,711.90",
+        "PropertyType": "Hotels",
+        "Rating": 8.7,
+        "ReviewCount": 2993
+      }
+    },
+    {
+      "LocationId": "973",
+      "Value": "New York Central Park, New York, New York, United States",
+      "id:1041813": {
+        "Amenities": [
+          "1 swimming pool",
+          " Non-smoking rooms",
+          " Fitness center"
+        ],
+        "Bedroom": 1,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/489199049.jpg?k=b80db2c5bba9b148f54b68dd7261e249629d81521798a191c5ca112caf647571\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/489199057.jpg?k=cd452b1b822d2917e40f7c7592c71ae80903a40d23692486af65d1bf68eb4be0\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/110071287.jpg?k=c3de1db0e599dec7729439bdcc7da1575ae2f5bf09690551a2b43bf8ea4b8b53\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/110316443.jpg?k=305e5bff33a9ad16885059fd589ab1a1f9b1b0d4f58f0c91b5ee0cc6f285f221\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/489199103.jpg?k=5f24899a9208e6de98a4852dd7a9f16630283c30ff2f3e4246a5f57f0d2c22dc\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/489199049.jpg?k=b80db2c5bba9b148f54b68dd7261e249629d81521798a191c5ca112caf647571\u0026o=\u0026hp=1",
+        "HotelID": "us/park-hyatt-new-york",
+        "HotelName": "Park Hyatt New York",
+        "ID": 56,
+        "IDHotel": 1041813,
+        "Location": "New York Central Park, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$7,747.02",
+        "PropertyType": "Hotels",
+        "Rating": 7.7,
+        "ReviewCount": 9
+      },
+      "id:1106729": {
+        "Amenities": [
+          "1 swimming pool",
+          " Non-smoking rooms",
+          " Fitness center"
+        ],
+        "Bedroom": 5,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/204079362.jpg?k=ad3e3b9e935728478fd7d2c0c871198135bb522158b35ed9f23cb312a067110d\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/204079792.jpg?k=e0511fce2c91ee4452dcd564ff3e42065d8e98a553e32803568fa50731c76df0\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/204078617.jpg?k=c64d5b46645cc690f61db30af40db9fea01b3a5468b57bf33d18ad0d3c940c97\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/33309667.jpg?k=8977f9240a6ace04e78ef05868326248df86954f71265722932afbf741ee53b6\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/204079375.jpg?k=e4e5a8236b0ad6767a8678f3241e53f50a3a3ee4efb2b32372b021921a7d14cd\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/204079362.jpg?k=ad3e3b9e935728478fd7d2c0c871198135bb522158b35ed9f23cb312a067110d\u0026o=\u0026hp=1",
+        "HotelID": "us/west-side-ymca",
+        "HotelName": "West Side YMCA",
+        "ID": 69,
+        "IDHotel": 1106729,
+        "Location": "New York Central Park, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$585.40",
+        "PropertyType": "Hostels",
+        "Rating": 6.6,
+        "ReviewCount": 15303
+      },
+      "id:13002981": {
+        "Amenities": [
+          "Smoke-free property",
+          " Pet friendly",
+          " Air conditioning"
+        ],
+        "Bedroom": 1,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/611081652.jpg?k=208b71258933d9b3960a63ddc2f7d02fb32cf4eb3cbaba1b603ea326e4756195\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/611081637.jpg?k=fa88d5b46476032aeb3315e2adf03ba47535028771c80b1d38edc9a47a065b16\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/611081651.jpg?k=35f79686aeceade8fbfb74aa43d2eec6ad488703298c59e929a8edd844b5e6de\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/611081646.jpg?k=44f7db14862037abd75a645459397027ffbcb3c88b7cfb9d5e021cbeb96c0694\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/611081644.jpg?k=b0b62130d9a37c2c273a5340b1776d9fd03164fbfdc244d67c45e56557996e22\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/611081652.jpg?k=208b71258933d9b3960a63ddc2f7d02fb32cf4eb3cbaba1b603ea326e4756195\u0026o=\u0026hp=1",
+        "HotelID": "us/centrally-living-uws-properties",
+        "HotelName": "Parkside Living City style",
+        "ID": 77,
+        "IDHotel": 13002981,
+        "Location": "New York Central Park, New York, New York, United States",
+        "NumBaths": 2,
+        "NumBedR": 4,
+        "NumBeds": 4,
+        "Price": "$2,400",
+        "PropertyType": "Apartments",
+        "Rating": 4,
+        "ReviewCount": 3
+      },
+      "id:182507": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Pet friendly",
+          " Facilities for disabled guests"
+        ],
+        "Bedroom": 2,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/242347453.jpg?k=78f3d6346a98d5128a23b7f9f8ade1e1e6b6d3705e0c536716fd837e093647da\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/265620781.jpg?k=86f3f387e55e256419765fcd1556cb57be9346e248ffccbb1af7eb3160742b1f\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/242347462.jpg?k=813f7220dfa9d5e53848809ea48c8c5f63bf67d67b8c2cfe26e8550ceb1bb905\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/265620798.jpg?k=34d8b267d48f2c3375b345b00e03e001baadc959584a3bfab4c4605553a675db\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/265620761.jpg?k=afcc99c915f8c1ace478bd29a1cf1ab2b9efa83d95cc8d6c999b947be368444c\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/242347453.jpg?k=78f3d6346a98d5128a23b7f9f8ade1e1e6b6d3705e0c536716fd837e093647da\u0026o=\u0026hp=1",
+        "HotelID": "us/la-quinta-new-york-city-central-park",
+        "HotelName": "La Quinta by Wyndham New York City Central Park",
+        "ID": 57,
+        "IDHotel": 182507,
+        "Location": "New York Central Park, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$693",
+        "PropertyType": "Hotels",
+        "Rating": 6.6,
+        "ReviewCount": 4385
+      },
+      "id:183066": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Pet friendly",
+          " Facilities for disabled guests"
+        ],
+        "Bedroom": 9,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/63338224.jpg?k=dddb7a1e5ab914d39d48c384a76bf0d1e704432826c81fbdc75a3d0030cc4c3a\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/374759917.jpg?k=ae3d818508e40e022903dfe94f77c206cfdab34f677b23ff9cf2711cb05278cc\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/525548248.jpg?k=430acc9ba5d0838970fb406b9711501704b56574c14e1f70dc99f67739c396ef\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/422971200.jpg?k=50bab967077b25ebab1f6c58ceb4a4dd60902be2a5201d96db008a057c91ab1c\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/607526224.jpg?k=9ebb7b802cbf5c4d5b0b9bd1f0aad5b770debc35339d6d113d12167e623ba25f\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/63338224.jpg?k=dddb7a1e5ab914d39d48c384a76bf0d1e704432826c81fbdc75a3d0030cc4c3a\u0026o=\u0026hp=1",
+        "HotelID": "us/monderne",
+        "HotelName": "Moderne Hotel",
+        "ID": 59,
+        "IDHotel": 183066,
+        "Location": "New York Central Park, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$1,133.44",
+        "PropertyType": "Hotels",
+        "Rating": 7.9,
+        "ReviewCount": 992
+      },
+      "id:187807": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Facilities for disabled guests"
+        ],
+        "Bedroom": 9,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/485684824.jpg?k=c2a8ed259153240fad961d81aa4af6eac4b5a7988d4654e45d66510571341536\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/485684838.jpg?k=9a819d7fcfb4add3ca309db49a6cc5717af1815d37994f3102cd821bb77cfdd8\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/485684851.jpg?k=8dd48ae1e7dcbdde40ec2fd8da67204a50257c080d9802e8ac5f6cfdbf8fac90\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/485684868.jpg?k=7d9251d5cb63a96c2722dad859addf890b91d63333866c1bc8596b98bdd1b447\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/485684863.jpg?k=5a50a6bb2bb7ca9ff510779d906220c41b4585e764a6160b20046b5d8f0009c7\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/485684824.jpg?k=c2a8ed259153240fad961d81aa4af6eac4b5a7988d4654e45d66510571341536\u0026o=\u0026hp=1",
+        "HotelID": "us/west-57th-street-by-hilton-club",
+        "HotelName": "Hilton Club West 57th Street New York",
+        "ID": 72,
+        "IDHotel": 187807,
+        "Location": "New York Central Park, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$1,693.20",
+        "PropertyType": "Hotels",
+        "Rating": 8.8,
+        "ReviewCount": 131
+      },
+      "id:1910127": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Facilities for disabled guests",
+          " Wifi in all areas"
+        ],
+        "Bedroom": 10,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/115135123.jpg?k=4adc7e4e5ec0a2513e29d35309623238611216ce613378f7328b923f411ed360\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/87252509.jpg?k=de72da12959639398ee50087881161f47a54cbdb304913d656bdaddf02f495c3\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/346560436.jpg?k=31c77d78ae9ac24ede6f753f6ecf41048338e674253f216ca1a77391544bca06\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/115136371.jpg?k=a6f08c4df0b832b801e9fe07d2d823ded7349ca0ce2680db3fc6560c4598e4b3\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/369283951.jpg?k=00859d41c142a1585bd922bd444db3051e4f1611edfda80d943155105684cf43\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/115135123.jpg?k=4adc7e4e5ec0a2513e29d35309623238611216ce613378f7328b923f411ed360\u0026o=\u0026hp=1",
+        "HotelID": "us/carnegie-hotel-new-york",
+        "HotelName": "Carnegie Hotel",
+        "ID": 64,
+        "IDHotel": 1910127,
+        "Location": "New York Central Park, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$1,490.90",
+        "PropertyType": "Hotels",
+        "Rating": 8.6,
+        "ReviewCount": 2227
+      },
+      "id:2178340": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Room service"
+        ],
+        "Bedroom": 9,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/106790872.jpg?k=7812a9b32ae2fe35ebd2625af2ba65e6437f71414db040477bfda7d03abc8e0b\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/530442166.jpg?k=0c8aa9ce30ccbc0d0562c0850b1332b64891d8924fae22492214ed721bd98396\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/106790877.jpg?k=0f4780b258382f96bfcd2722ecb1800aa63f93856f02c6523d89fc19ba8e0d1b\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/92067773.jpg?k=5f2e8602d5c2e943d03e8d1393fbdbb62ba311dcf792f8abd649da8f59f40a77\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/106790882.jpg?k=f1eda7d190233330fc727d2fd301fbf290bdd57e77b432c77799629186c9f360\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/106790872.jpg?k=7812a9b32ae2fe35ebd2625af2ba65e6437f71414db040477bfda7d03abc8e0b\u0026o=\u0026hp=1",
+        "HotelID": "us/the-whitby",
+        "HotelName": "The Whitby Hotel",
+        "ID": 67,
+        "IDHotel": 2178340,
+        "Location": "New York Central Park, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$7,670",
+        "PropertyType": "Hotels",
+        "Rating": 9.4,
+        "ReviewCount": 142
+      },
+      "id:241699": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Facilities for disabled guests"
+        ],
+        "Bedroom": 3,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/587898636.jpg?k=98e6f62b04e81e1dd1097e2a27873cb87e01231a533ea6fea0d24aa9650ea068\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/202656812.jpg?k=88fe5092a62a3bec70c4bba21b29a9c3fb5383144fbfd71f000d3582b751f833\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/511346825.jpg?k=49d96f9016468374d37212633d34d1c14526c29aefd576b60d07b9fffce2b10e\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/512786695.jpg?k=660910db265a8acf26de09ac1bbfb77b7c4a309b0aff6d09b287f58f862a964b\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/512786699.jpg?k=c3c1613ac6a830f3c6256bb46791130a7069b3f9c86b05675b062bb248d32ccd\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/587898636.jpg?k=98e6f62b04e81e1dd1097e2a27873cb87e01231a533ea6fea0d24aa9650ea068\u0026o=\u0026hp=1",
+        "HotelID": "us/the-manhattan-club",
+        "HotelName": "The Manhattan Club",
+        "ID": 74,
+        "IDHotel": 241699,
+        "Location": "New York Central Park, New York, New York, United States",
+        "NumBaths": 1,
+        "NumBedR": 1,
+        "NumBeds": 2,
+        "Price": "$1,942",
+        "PropertyType": "Hotels",
+        "Rating": 8.2,
+        "ReviewCount": 4206
+      },
+      "id:24900": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Room service"
+        ],
+        "Bedroom": 10,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/433891888.jpg?k=b248d5598a16bffd284c60778c1167bc8d63f4fc9ce001ae809707cc3b6a4abf\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/433891863.jpg?k=5385755f10279c2d1f73b0766171f7bff8705da963fc2ab047811783227cd212\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/30729785.jpg?k=7246d04cb39194469a3f3a385078ca4c3efd492ef6e55ad2f03cf7725bbdceed\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/519611358.jpg?k=f1ae56ca0c31c988f1767f179d3b4e95c5bd185f002b06cf80d7425fd143a2b6\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/519624506.jpg?k=c901a10a999f39f2b08cd332ec82b968906673d2ec305e20a683f91890585ab4\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/433891888.jpg?k=b248d5598a16bffd284c60778c1167bc8d63f4fc9ce001ae809707cc3b6a4abf\u0026o=\u0026hp=1",
+        "HotelID": "us/loews-regency",
+        "HotelName": "Loews Regency New York Hotel",
+        "ID": 70,
+        "IDHotel": 24900,
+        "Location": "New York Central Park, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$2,231.17",
+        "PropertyType": "Hotels",
+        "Rating": 8.5,
+        "ReviewCount": 201
+      },
+      "id:267962": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Room service"
+        ],
+        "Bedroom": 6,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/568964875.jpg?k=398ffd6282090aa5a6cc080f1b56d9532a5a60c2d4bb206c8eeade7318367003\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/563806871.jpg?k=dc9886d2b0e5d42f0a8845c21c13b253fb3d78575aff0b396d5f5bd5a074f93b\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/465368159.jpg?k=7a34a23a5d092180d70cff6677913299a2b365ed2b49a0b3fa9a4539c4425796\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/568964874.jpg?k=d1a3a6a134dd8c5d554a03588ebc77cbf076443f6d75b857920c93e9a1366a3a\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/473291725.jpg?k=0eb22608a7f9663373fb259c579f16b9c27be68cc9443b7733a9a3187b241597\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/568964875.jpg?k=398ffd6282090aa5a6cc080f1b56d9532a5a60c2d4bb206c8eeade7318367003\u0026o=\u0026hp=1",
+        "HotelID": "us/the-mark",
+        "HotelName": "The Mark New York",
+        "ID": 76,
+        "IDHotel": 267962,
+        "Location": "New York Central Park, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$7,713",
+        "PropertyType": "Hotels",
+        "Rating": 8.9,
+        "ReviewCount": 20
+      },
+      "id:270490": {
+        "Amenities": [
+          "Fitness center",
+          " Room service",
+          " Restaurant"
+        ],
+        "Bedroom": 5,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/433353187.jpg?k=f44aec727c7b97b20d67f36910c62fa0efc2919c7cb71cf1528039f2262b6fa9\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/433353322.jpg?k=e1930cf16f8d75033e79f4df38c9867a977f986097e386f1bd842cae8e5e3ebf\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/438437920.jpg?k=c757b4e52cff8f3165ee08ed185d5c07ddd1a87fa038926ee081cfae185dcad6\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/433353216.jpg?k=946f42e18a7a4dd5fd959240282a21769c01c8064ec1015117f4122aa908c4f4\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/485817573.jpg?k=4e4dd6fad0cacd2f7d6fa7f97c04d33c0d5016918a6ce41d722ac07269f242de\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/433353187.jpg?k=f44aec727c7b97b20d67f36910c62fa0efc2919c7cb71cf1528039f2262b6fa9\u0026o=\u0026hp=1",
+        "HotelID": "us/st-regis-new-york",
+        "HotelName": "The St. Regis New York",
+        "ID": 71,
+        "IDHotel": 270490,
+        "Location": "New York Central Park, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$5,056",
+        "PropertyType": "Hotels",
+        "Rating": 8.4,
+        "ReviewCount": 124
+      },
+      "id:46601": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Smoke-free property",
+          " Fitness center"
+        ],
+        "Bedroom": 1,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/501182395.jpg?k=7ad5e0143feb516295203f92434554622343616a639767652718d7e39cbef6ca\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/558658999.jpg?k=fa3229aea765e3c1ccadf29c40e289121eb5e4afb6d505b5a3d162d6ebf4853a\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/558659046.jpg?k=1c93b59145e66625091522f160cdb5d268f2e7f19a295c7a61a51f3f1372c5f5\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/558658996.jpg?k=b5ee5ab79759a500b6b13de0ef70561389701ef5d2fbc7fbeaecef20164d56ef\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/558658995.jpg?k=51d0a864a76ec9c111f5899e14cae3a186339ba42f0845f56230be22f1e463f3\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/501182395.jpg?k=7ad5e0143feb516295203f92434554622343616a639767652718d7e39cbef6ca\u0026o=\u0026hp=1",
+        "HotelID": "us/chambers",
+        "HotelName": "Chambers powered by Sonder",
+        "ID": 73,
+        "IDHotel": 46601,
+        "Location": "New York Central Park, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$1,425.77",
+        "PropertyType": "Hotels",
+        "Rating": 8.3,
+        "ReviewCount": 695
+      },
+      "id:530057": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Restaurant"
+        ],
+        "Bedroom": 7,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/485683600.jpg?k=e16a5a54bcb236ce4d48aaa375d90165f24da7b51b96fbffa0d1af2ca4993764\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/485683714.jpg?k=020c9effd401923b45b840bf952354dafc94f859ffd76488409d8b61ed44ebf0\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/485683634.jpg?k=0f8bb85ff591a2a17f6b86e3e6e4a350c4306372bb647d89012cee398ae49199\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/531967739.jpg?k=121c63fda1cb22f9ef0ab03c83a98a2a9a3962aaf33923e498ea4e0fc06d94be\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/485683671.jpg?k=338241a96ac9b9e89d103f7c23092ad1058bd80ce847a37391761f05ee2817f1\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/485683600.jpg?k=e16a5a54bcb236ce4d48aaa375d90165f24da7b51b96fbffa0d1af2ca4993764\u0026o=\u0026hp=1",
+        "HotelID": "us/the-quin",
+        "HotelName": "Hilton Club The Quin New York",
+        "ID": 75,
+        "IDHotel": 530057,
+        "Location": "New York Central Park, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$2,262",
+        "PropertyType": "Hotels",
+        "Rating": 8.6,
+        "ReviewCount": 1966
+      },
+      "id:55861": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Pet friendly",
+          " Facilities for disabled guests"
+        ],
+        "Bedroom": 10,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/228177186.jpg?k=34a96fbc3d4ad283c3344d31c9dc8139ea0d7251f9567d0558c7b3eec7aa29f9\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/103397180.jpg?k=1fc02c464f7a9aed6115492775ebbfad0404d6a1bcd2bbc4b35eaae9829d74fd\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/46393891.jpg?k=af05d38fe7796e49c97c057ea3db36d1a0efd4720a88b406145a45be174502d9\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/104810529.jpg?k=0b844afa3be2bfb125d75a601db97b8e117200108b1b1993308cdbee6636f3a6\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/103397229.jpg?k=5939bd978fe27c67f956807bbd4b0d23a6b70300b595970e5cb2ba55a39fb98e\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/228177186.jpg?k=34a96fbc3d4ad283c3344d31c9dc8139ea0d7251f9567d0558c7b3eec7aa29f9\u0026o=\u0026hp=1",
+        "HotelID": "us/shoreham",
+        "HotelName": "Shoreham Hotel",
+        "ID": 60,
+        "IDHotel": 55861,
+        "Location": "New York Central Park, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$1,045.50",
+        "PropertyType": "Hotels",
+        "Rating": 7.3,
+        "ReviewCount": 3223
+      },
+      "id:56106": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Pet friendly"
+        ],
+        "Bedroom": 10,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/35246237.jpg?k=f05ebac6431efeec8ec1f45b90897ff46ab601796a9727cf621278a97d72c92d\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/446271878.jpg?k=2016f760f94f5286c6cfe526a0a28dcd5fd2429f1dfcefc5cf4bb8284071c113\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/349779527.jpg?k=833aa0bfe0b163dd242c684512c83aae342feae45f38eebc82dbd2942d88fa75\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/349781153.jpg?k=4d3baf11960010a1eb2c7208b5239b0a699c8c89164289ae1a4494f3e08bb9d3\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/469159882.jpg?k=023327a54df27265e5f3dbc4a4edac61c21048cf213381f8e876eeafb6f9219b\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/35246237.jpg?k=f05ebac6431efeec8ec1f45b90897ff46ab601796a9727cf621278a97d72c92d\u0026o=\u0026hp=1",
+        "HotelID": "us/korman-kommunities-central-park",
+        "HotelName": "AKA Central Park",
+        "ID": 58,
+        "IDHotel": 56106,
+        "Location": "New York Central Park, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$1,620",
+        "PropertyType": "Condo Hotels",
+        "Rating": 8.2,
+        "ReviewCount": 297
+      },
+      "id:56921": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Room service"
+        ],
+        "Bedroom": 5,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/483618940.jpg?k=0a54b197ac934495548699dee4d5fc9ca1f7d68096b6aae93d0f83993bb20fa1\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/339884397.jpg?k=2ed99ece8dfe124b32f6c0128b652b8fcacbc5b2a136f989b19ba2e0f278cb69\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/558206815.jpg?k=30fcf9642ea805d2cc57c7a2fa13f9d2997f1c0ac4bb1ca3661ca2b66cb8b8b5\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/558206836.jpg?k=e05d13dcfdf4b5a61bbef4810cd99c95678d86c2d306446887ecb06e69ff1e61\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/339884281.jpg?k=dfc84b3c79b36c0c9e2dcd3aa93dbb6d27077eb2d2657fe16d69e6c5cf28e6d5\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/483618940.jpg?k=0a54b197ac934495548699dee4d5fc9ca1f7d68096b6aae93d0f83993bb20fa1\u0026o=\u0026hp=1",
+        "HotelID": "us/thompson-centralpark",
+        "HotelName": "Thompson Central Park New York, by Hyatt",
+        "ID": 63,
+        "IDHotel": 56921,
+        "Location": "New York Central Park, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$2,558.52",
+        "PropertyType": "Hotels",
+        "Rating": 8.3,
+        "ReviewCount": 761
+      },
+      "id:57009": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Room service"
+        ],
+        "Bedroom": 10,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/336418375.jpg?k=47a9d1f136cea4b248de582d3b4d7fbb72f29e5df47121ec420531b0ea71ea25\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/336418376.jpg?k=35f72529084bfb60ca79b8f5ff45f18a378fabf422bcf199b60671d4e95a8b9d\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/336423880.jpg?k=fd5be5873040b6a9fecb1dbeeb818a16b98b6db7ab03b5ff70ecb58297808a2f\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/336419248.jpg?k=e2e1e9ad072bacb030d0a18f74a25b8d327e15f48b60269be0d13c3ae7a064fa\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/336418203.jpg?k=946c78dc4c50ec377a56c05f48fb50fa10c6a0bf316dc883534d1e64c601a84e\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/336418375.jpg?k=47a9d1f136cea4b248de582d3b4d7fbb72f29e5df47121ec420531b0ea71ea25\u0026o=\u0026hp=1",
+        "HotelID": "us/park-lane-new-york",
+        "HotelName": "Park Lane New York",
+        "ID": 68,
+        "IDHotel": 57009,
+        "Location": "New York Central Park, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$1,796.46",
+        "PropertyType": "Hotels",
+        "Rating": 8.1,
+        "ReviewCount": 4953
+      },
+      "id:57397": {
+        "Amenities": [
+          "1 swimming pool",
+          " Non-smoking rooms",
+          " Fitness center"
+        ],
+        "Bedroom": 2,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/422975926.jpg?k=2df74b5ac30f66e053a11ccda1ce89305a0305f95b37d4f1f6acc73bdb94c9ad\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/231013458.jpg?k=b5fcf97adfa07a2e810e2a21cd46bfca28937805e1d9fe3d2cb541317b3a1b5d\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/60969249.jpg?k=1a1d050fa6c136216e629ad25e4359b20ebb87945bc14d9b34828ea0992ed89b\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/61881589.jpg?k=6269ba5ba3798b2373a2a6647df673b01b3b2ee53edf7dd9284cb9879507f929\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/441904056.jpg?k=4c2416c207d805cb8b1543e169cc10ef6960609574b65065f6f8d4ec55326f90\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/422975926.jpg?k=2df74b5ac30f66e053a11ccda1ce89305a0305f95b37d4f1f6acc73bdb94c9ad\u0026o=\u0026hp=1",
+        "HotelID": "us/the-empire",
+        "HotelName": "The Empire Hotel New York",
+        "ID": 65,
+        "IDHotel": 57397,
+        "Location": "New York Central Park, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$826.32",
+        "PropertyType": "Hotels",
+        "Rating": 6.8,
+        "ReviewCount": 5321
+      },
+      "id:606890": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Pet friendly"
+        ],
+        "Bedroom": 5,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/628210399.jpg?k=36bfa3b6d502ca30ded5c0fa9540a72dbce4d86cb15b23b3ce2fd761768e00d1\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/632602136.jpg?k=10561dafaaecdbc37cb7889c1fdac2792e676bdc2a30bb804e863320d2b854a6\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/535713118.jpg?k=bd4f1dbbe5a4303eee965451b849a2630bbf3699509af1667a0c090ed1d632b0\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/535713109.jpg?k=f4efe86b65471694d8f46d42f892e89f210194a55b6a2ab5c4a1114ba19adfe8\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/535713099.jpg?k=658f02c757122e2d78eb72f53441a467e5e4d07890b9e45888bbbec039692327\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/628210399.jpg?k=36bfa3b6d502ca30ded5c0fa9540a72dbce4d86cb15b23b3ce2fd761768e00d1\u0026o=\u0026hp=1",
+        "HotelID": "us/new-york-central-park-le-meridien",
+        "HotelName": "Le Meridien New York, Central Park",
+        "ID": 62,
+        "IDHotel": 606890,
+        "Location": "New York Central Park, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$1,892.25",
+        "PropertyType": "Hotels",
+        "Rating": 7,
+        "ReviewCount": 476
+      },
+      "id:621411": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Pet friendly"
+        ],
+        "Bedroom": 2,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/99760688.jpg?k=c032cc0dbf582aaf8f8997817453dbc466590de897f60ec47f2b14a950009031\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/129499502.jpg?k=353bf2fca04bee144d0ed47a5e12d8ff5549b2ce9433a2a768265b56ce8d54cb\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/104780338.jpg?k=e147b01a7f1527a20a934b166ee7205126696e5a5dc36a144b3b9da34473c89c\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/104780319.jpg?k=8f05d69918dd65f7c17eaaa8fc895681fe735b5096fcf8ed0d26f3e75f672adc\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/104780300.jpg?k=14877a26b3250f5a57ef4f96f434b5dee1b9796d743951954ccd6abb43920bc2\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/99760688.jpg?k=c032cc0dbf582aaf8f8997817453dbc466590de897f60ec47f2b14a950009031\u0026o=\u0026hp=1",
+        "HotelID": "us/westhouse-new-york",
+        "HotelName": "WestHouse Hotel New York",
+        "ID": 61,
+        "IDHotel": 621411,
+        "Location": "New York Central Park, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 2,
+        "Price": "$2,160.36",
+        "PropertyType": "Hotels",
+        "Rating": 8.1,
+        "ReviewCount": 1926
+      },
+      "id:76896": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Room service"
+        ],
+        "Bedroom": 8,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/607706973.jpg?k=f4824f4ebfbf0f8fd8e23e0dc584ef2929a20e9d2f18047f1bda48a598e9d710\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/575486357.jpg?k=dd4713ef3dff8f928db05ab38c3621e402ea8ff4ac3a5bd3700e05aff08bea87\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/150667705.jpg?k=ea29e290511ae42b427212c3236c526d1b4c4f5c25c0fdc31c641320babaefc7\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/69641552.jpg?k=54fcd0384a50e969ca1cd315e4a6983095954a684d9a64adcb049a93aa6484b7\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/69549562.jpg?k=0f4e6fc73ae4e58336b60c06a892d4719c6756ac0cedf766c7a7d02dd96d91d8\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/607706973.jpg?k=f4824f4ebfbf0f8fd8e23e0dc584ef2929a20e9d2f18047f1bda48a598e9d710\u0026o=\u0026hp=1",
+        "HotelID": "us/the-pierre-a-taj",
+        "HotelName": "The Pierre, A Taj Hotel, New York",
+        "ID": 66,
+        "IDHotel": 76896,
+        "Location": "New York Central Park, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$2,677.50",
+        "PropertyType": "Hotels",
+        "Rating": 8.4,
+        "ReviewCount": 913
+      }
+    },
+    {
+      "LocationId": "929",
+      "Value": "Manhattan, New York, New York, United States",
+      "id:1169919": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Room service"
+        ],
+        "Bedroom": 1,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/539568331.jpg?k=8d43f344e8e6104ace7e81bdc4501ed368ed0df03156c565a8609a9935edd7af\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/475334954.jpg?k=a5e0588bbfabb712943a654dfabfa3c060a3d3dcd931be2aba1603643bbe40bc\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/475013609.jpg?k=27b835335c8430ae5f66d23858c1c2074421f4dcdd49b0ab659f6bcf53d50076\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/475365545.jpg?k=f19c044e5dcb502a499031fd79f79ec0d24d09b5e77a2beb14c69f55b34e3ec5\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/539569529.jpg?k=f83ac13a2c8c4b1be77100de202d8db976862a6ff668fdfdb079205cf8a607a7\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/539568331.jpg?k=8d43f344e8e6104ace7e81bdc4501ed368ed0df03156c565a8609a9935edd7af\u0026o=\u0026hp=1",
+        "HotelID": "us/edison-triumph-group",
+        "HotelName": "Hotel Edison Times Square",
+        "ID": 21,
+        "IDHotel": 1169919,
+        "Location": "Manhattan, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "US$1,208.70",
+        "PropertyType": "Hotels",
+        "Rating": 7.5,
+        "ReviewCount": 13567
+      },
+      "id:181008": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Facilities for disabled guests"
+        ],
+        "Bedroom": 3,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/519991039.jpg?k=662989558f8ac87c31f2985818f8c5339f799e06d2fc01f149531792d9f73bb3\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/519990582.jpg?k=320105479a7a7de8bda74d8ed861a5a2df917b6f3c2c079d274c77f99697ad90\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/520876559.jpg?k=7e0bc6e345b8a24c9c2e2dd26af65e2ba87f545b0d0a0e65d85c20aa2b45f9c0\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/166668999.jpg?k=744a2012723cf16e8ed76f5a2d449dc1aac75610bb2081f07c6aa2368e4f6792\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/519988613.jpg?k=62ef67f9fb3f2d914d4eebb43eb2a96bbb2ea0ab2a3eaa7e90742bc5bf3d48fd\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/519991039.jpg?k=662989558f8ac87c31f2985818f8c5339f799e06d2fc01f149531792d9f73bb3\u0026o=\u0026hp=1",
+        "HotelID": "us/riverside-tower",
+        "HotelName": "Riverside Tower Hotel",
+        "ID": 10,
+        "IDHotel": 181008,
+        "Location": "Manhattan, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "US$927",
+        "PropertyType": "Hotels",
+        "Rating": 8.5,
+        "ReviewCount": 2157
+      },
+      "id:183147": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Pet friendly",
+          " Restaurant"
+        ],
+        "Bedroom": 5,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/109025578.jpg?k=d1962ec8f93b0df93c79a69bea94426254cd88845a790ac7dd82d46c6e1e36af\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/109025994.jpg?k=1f8a2a97e1a0ac76c4b7644e57322030e4a8217dbd4a18e25602ac1963e441b2\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/155001773.jpg?k=8734cf4c7d6da8302548d98d769eba65f0d60b3b0791faf88dbe0dee8ba409cb\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/154845472.jpg?k=f0b3bfa08c2237c4373027fc862621c318108618d2dc361a7a932209432e4f22\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/155001263.jpg?k=09503af26bf5b6a8ee246a48a213b40a336b7ee23cd93f91f016228520d0707c\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/109025578.jpg?k=d1962ec8f93b0df93c79a69bea94426254cd88845a790ac7dd82d46c6e1e36af\u0026o=\u0026hp=1",
+        "HotelID": "us/pod",
+        "HotelName": "Pod 51",
+        "ID": 14,
+        "IDHotel": 183147,
+        "Location": "Manhattan, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "US$652.80",
+        "PropertyType": "Hotels",
+        "Rating": 7.8,
+        "ReviewCount": 11245
+      },
+      "id:183566": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Room service"
+        ],
+        "Bedroom": 10,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/81472122.jpg?k=1b5933dbafac3626ca110604d4b7a03ff4de69c8467c0480c5637fb72de2ea42\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/81472155.jpg?k=b1ac3720e17b3f55b4a11bf4e7f9054c031b03ab1ced105aa484d33e101b658e\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/81472148.jpg?k=ac0dcae1669f1aca75f0aaf50cfe9a033d9b43893fc20276b217445ff488c622\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/81472150.jpg?k=c9122d014faa21557d5deeed7baf9bae6b961ace6f2b750b32dca13465d5ecb4\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/281058980.jpg?k=680bd62f5a51576c1bdb70d89b5cbc0078989fd032dae0dcc43073119897c0eb\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/81472122.jpg?k=1b5933dbafac3626ca110604d4b7a03ff4de69c8467c0480c5637fb72de2ea42\u0026o=\u0026hp=1",
+        "HotelID": "us/world-center",
+        "HotelName": "World Center Hotel",
+        "ID": 18,
+        "IDHotel": 183566,
+        "Location": "Manhattan, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "US$912.90",
+        "PropertyType": "Hotels",
+        "Rating": 8.2,
+        "ReviewCount": 3518
+      },
+      "id:184085": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Room service"
+        ],
+        "Bedroom": 9,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/490862580.jpg?k=7432c5d2cf94ad62de722b7ce2c1a6ee2ceb958663f89605d90c859c48463e61\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/490862561.jpg?k=68eb6d1e1d2b32d2ab79e7ffbbbe9ab168eb04149b28affbdad1487653b19e52\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/490862566.jpg?k=e8d8da8b46b128dc0b60d48ddd4916b1673ebba335e6df4bc31668b294880e84\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/490862567.jpg?k=ff8159c9d14315b1c2ef5fcde82c8fa12a9a679c4a4b6d4cd5ceeeabcd1db8f2\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/490862574.jpg?k=00f8e5f88c766af58f698ccba29684841403b0a30d0d9263e383c9a2cfbaa48a\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/490862580.jpg?k=7432c5d2cf94ad62de722b7ce2c1a6ee2ceb958663f89605d90c859c48463e61\u0026o=\u0026hp=1",
+        "HotelID": "us/doubletree-new-york-city-chelsea",
+        "HotelName": "DoubleTree by Hilton Hotel New York City - Chelsea",
+        "ID": 6,
+        "IDHotel": 184085,
+        "Location": "Manhattan, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "US$1,110.42",
+        "PropertyType": "Hotels",
+        "Rating": 7.2,
+        "ReviewCount": 3526
+      },
+      "id:186118": {
+        "Amenities": [
+          "CCTV outside property",
+          " Free Wifi",
+          " Fax/Photocopying"
+        ],
+        "Bedroom": 5,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/509364564.jpg?k=6b7078ee7567cda8eb1c79bdd4b8a837cb01f13dcfcfe838b26fd4bd933461df\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/580276956.jpg?k=97a48685a68d838b9bb0b6402952d28b5c419fa42b1551f0a6b11fc674959e70\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/580277035.jpg?k=4e5d137dd24e0f1a316b804d1f93bdce1b389b423af8e95fa499f53c41c2c402\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/580276978.jpg?k=50a20d5d7c985a81702b17a31d12ea1773d9fe0502010727dc45ef7817aea5c1\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/580276912.jpg?k=d531dc2646969aa3c9e2eaeb075a4b43325b65ace4dd42972a9098d6b95fc1b4\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/509364564.jpg?k=6b7078ee7567cda8eb1c79bdd4b8a837cb01f13dcfcfe838b26fd4bd933461df\u0026o=\u0026hp=1",
+        "HotelID": "us/mayfair-new-york",
+        "HotelName": "The Mayfair Hotel Times Square, Ascend Hotel Collection",
+        "ID": 7,
+        "IDHotel": 186118,
+        "Location": "Manhattan, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "US$755.25",
+        "PropertyType": "Hotels",
+        "Rating": 8.6,
+        "ReviewCount": 1791
+      },
+      "id:187781": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Facilities for disabled guests"
+        ],
+        "Bedroom": 10,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/164957631.jpg?k=f847d43341020e39e2c14f61cc4b245b0ed56205e49bd4289dadf5ccc5770427\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/164957585.jpg?k=18b114cce588499b2e5c2ac84fac2670f280fb5fca3d89d1bdf5f1ebf6a682d9\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/319612159.jpg?k=b2926881d434ae91fc394068207f805111f6b44d18019041a7250082b36221f6\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/319517292.jpg?k=9b8699d8b0f87694f9cd47060db370d7ab722ad946dc6bceb2d1953647e9c98d\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/164957688.jpg?k=dc6651726fd9feba5bc93805777e8ff461c737cf8e8dd274e2ce5e92c40c1d4e\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/164957631.jpg?k=f847d43341020e39e2c14f61cc4b245b0ed56205e49bd4289dadf5ccc5770427\u0026o=\u0026hp=1",
+        "HotelID": "us/soho-54-hotel",
+        "HotelName": "SoHo 54",
+        "ID": 20,
+        "IDHotel": 187781,
+        "Location": "Manhattan, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "US$759.60",
+        "PropertyType": "Hotels",
+        "Rating": 7.4,
+        "ReviewCount": 3912
+      },
+      "id:2377260": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Pet friendly",
+          " Wifi in all areas"
+        ],
+        "Bedroom": 5,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/327103801.jpg?k=072b93fcdb6bbad7764fc2fa8130490e00b4719398dbf6060874a2840ac5e0b2\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/162990144.jpg?k=93c35791a679f70001be3ed715b3f0cbee448303dc11ae0625296e0699b5822e\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/129148007.jpg?k=815f041fa1d0220233632f1b140c0df7ba345fe22cf99964edead59d8363849c\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/483790954.jpg?k=5bb5696c9aef8fdcbf627fd04e60fb29c9c63c9bb173ae7ee1a00e2828d28cbb\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/162989829.jpg?k=1ba4ccf9cce4b820f3ea9b960665e4fa717b83e681bb2b088d51d300d0dd9c0d\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/327103801.jpg?k=072b93fcdb6bbad7764fc2fa8130490e00b4719398dbf6060874a2840ac5e0b2\u0026o=\u0026hp=1",
+        "HotelID": "us/pod-times-square",
+        "HotelName": "Pod Times Square",
+        "ID": 17,
+        "IDHotel": 2377260,
+        "Location": "Manhattan, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 2,
+        "Price": "US$734.40",
+        "PropertyType": "Hotels",
+        "Rating": 8.2,
+        "ReviewCount": 23022
+      },
+      "id:262833": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Restaurant"
+        ],
+        "Bedroom": 5,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/627313649.jpg?k=e42a6692f071a696fdc58e7d3fbc5b158f7fbbe87600b80bccf1460cd92a4e29\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/453264522.jpg?k=e98382437ef7f93977aaa9acba4174bb6779a5b308e0bcc985944229f3b836e0\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/627313700.jpg?k=d232b0784e86c839b971307cb1288a4f99e93b6405403f1d0c098e8012b35503\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/627313667.jpg?k=d819ecf14135655ad1a273a6f326442a3afdc5b94cb85585934248c4e47e2f70\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/453264542.jpg?k=09e5ae2a6788c36d63b3f151e6f7431a36b4960b1b7fe61e99e6eb3e32a16e03\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/627313649.jpg?k=e42a6692f071a696fdc58e7d3fbc5b158f7fbbe87600b80bccf1460cd92a4e29\u0026o=\u0026hp=1",
+        "HotelID": "us/courtyard-new-york-manhattan-midtown-east",
+        "HotelName": "Courtyard New York Manhattan/Midtown East",
+        "ID": 22,
+        "IDHotel": 262833,
+        "Location": "Manhattan, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "US$1,429",
+        "PropertyType": "Hotels",
+        "Rating": 8,
+        "ReviewCount": 1627
+      },
+      "id:270216": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Facilities for disabled guests",
+          " Wifi in all areas"
+        ],
+        "Bedroom": 1,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/13011414.jpg?k=b4a7abf7571240c023c7e503b3353f34f138dba78c3440748c574d7f5204d536\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/542358759.jpg?k=ca8a6f7fb0978167dad4aff113d107b7577fa4d7ab73043051de0ef5cacfb019\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/14173318.jpg?k=1a03ef09cfafe3e5dc2cbbb11650e9c8e97192750159ab1e50df74f6781c64be\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/542358825.jpg?k=2ef9f21783d7c244791543c61ab3be48be4699426a2bf14b026e9cbdcffb5e26\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/486634453.jpg?k=6ae0a8d0b9f5290e4f6fd2544ea5de11222a45db14439e9bafa7b5ce9707835b\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/13011414.jpg?k=b4a7abf7571240c023c7e503b3353f34f138dba78c3440748c574d7f5204d536\u0026o=\u0026hp=1",
+        "HotelID": "us/hi-new-york-hostel-nyc",
+        "HotelName": "HI New York City Hostel",
+        "ID": 5,
+        "IDHotel": 270216,
+        "Location": "Manhattan, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "US$310.50",
+        "PropertyType": "Hostels",
+        "Rating": 8.3,
+        "ReviewCount": 17530
+      },
+      "id:4125131": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Pet friendly",
+          " Facilities for disabled guests"
+        ],
+        "Bedroom": 5,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/461629300.jpg?k=e9ff14ac9f2424a8de2b90bb99f073ebf04387099430181f67bac5d7b7d4ea4c\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/500159839.jpg?k=99eb3d53e4c5d76f7e64b1ed407caf77540ea15ab3e15846caa1b5785e9d19d7\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/461629316.jpg?k=d342be6a70241fe332d0f828655e347faf982a4b4728bfe9bce0bca09e87466e\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/500159889.jpg?k=e2af875e659795d5036151316828bafe9f4f77c4bf16d80fca62fae2ddf73771\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/461629310.jpg?k=eb70ac0c740d9fb3451c4f413c3f60e7f4ec259bce3ef0d1b1f837ee0e0ac689\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/461629300.jpg?k=e9ff14ac9f2424a8de2b90bb99f073ebf04387099430181f67bac5d7b7d4ea4c\u0026o=\u0026hp=1",
+        "HotelID": "us/fairfield-inn-suites-by-marriott-new-york-manhattan-times-square-36th-st",
+        "HotelName": "Fairfield Inn \u0026 Suites by Marriott New York Manhattan/Times Square South",
+        "ID": 24,
+        "IDHotel": 4125131,
+        "Location": "Manhattan, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "US$1,211.51",
+        "PropertyType": "Hotels",
+        "Rating": 8.3,
+        "ReviewCount": 7120
+      },
+      "id:4700797": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Restaurant"
+        ],
+        "Bedroom": 10,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/303276079.jpg?k=7c641bb6a05b102ca99c07bf59d21a5c07eac5db177ac370139ca79ea1a4c348\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/184219979.jpg?k=cf5bc8d29f94c17caedd754fe3bf8c253a9c22957b739b98f3c0f7ead7535abc\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/336977988.jpg?k=1a811c7cefe60befd072dfc0fd3a2748bf096ee9b43fc760cfc05aeca98062eb\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/184706906.jpg?k=55cd94d68058a457f15b47757c4d5a6fb4b1dcb49f8ded26282eebcdbfae21ae\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/184707431.jpg?k=d4acfecbcd6b134d53fea598aae2c642f00199d245e0fc4cd0a2810843da85ab\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/303276079.jpg?k=7c641bb6a05b102ca99c07bf59d21a5c07eac5db177ac370139ca79ea1a4c348\u0026o=\u0026hp=1",
+        "HotelID": "us/the-belvedere-new-york",
+        "HotelName": "The Belvedere Hotel",
+        "ID": 9,
+        "IDHotel": 4700797,
+        "Location": "Manhattan, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 2,
+        "Price": "US$1,036.48",
+        "PropertyType": "Hotels",
+        "Rating": 7.9,
+        "ReviewCount": 5935
+      },
+      "id:5122906": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Pet friendly",
+          " Facilities for disabled guests"
+        ],
+        "Bedroom": 10,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/225448744.jpg?k=a681adfa56ec1952904251d8578d8dd700967da38e5ded8deadef43c2c012db5\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/225448814.jpg?k=8d405b2011a5540ce1515fcac4b4319066b919e4759a778c57f04a614d8c4a47\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/253309537.jpg?k=519d827199dfce95f657bcf2b4a99ad4769bbda61d50cafceeb8affb3327f943\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/519489388.jpg?k=ac77a74cd97523f7b7d78466ef011fe887008c2726c6e270c789de4e9a40e1d0\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/253309559.jpg?k=6f2fb9725b29b3f31a27b4a36b742e7110e2fdc8628ad8c32ab1b0c3770e3b6e\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/225448744.jpg?k=a681adfa56ec1952904251d8578d8dd700967da38e5ded8deadef43c2c012db5\u0026o=\u0026hp=1",
+        "HotelID": "us/pestana-park-avenue",
+        "HotelName": "Pestana Park Avenue",
+        "ID": 2,
+        "IDHotel": 5122906,
+        "Location": "Manhattan, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "US$1,141.80",
+        "PropertyType": "Hotels",
+        "Rating": 8.6,
+        "ReviewCount": 988
+      },
+      "id:55870": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Restaurant",
+          " Facilities for disabled guests"
+        ],
+        "Bedroom": 10,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/69063746.jpg?k=7984ec5158ac7046397a6f20489948a0d2709c55c04230e4b482247690582b60\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/89669543.jpg?k=bae1f9896ca496b24a8a1b0e6ad9bd076db2490d5a865b7f41763d12d5e4197a\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/69063926.jpg?k=6c156a30dd84add4bcb0ca488aab03a0dd01d008fc1e323894c8519326a4572c\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/69063748.jpg?k=1dea1767a5a17e497ac8e544218addc3dbf0027e54753ed92f3ad7afdc82bb80\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/314688225.jpg?k=d0279af1a2fe514570e6f44e559e10cc6f88706ca208fc2ab001be6a7e72db3b\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/69063746.jpg?k=7984ec5158ac7046397a6f20489948a0d2709c55c04230e4b482247690582b60\u0026o=\u0026hp=1",
+        "HotelID": "us/41-at-times-square",
+        "HotelName": "Hotel Shocard Broadway, Times Square",
+        "ID": 16,
+        "IDHotel": 55870,
+        "Location": "Manhattan, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "US$698.40",
+        "PropertyType": "Hotels",
+        "Rating": 7.2,
+        "ReviewCount": 2728
+      },
+      "id:55890": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Room service"
+        ],
+        "Bedroom": 8,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/484129488.jpg?k=de951ae11537920285776865ef10f23dc5434708c8b3e07ba0fcc5d7f17d1e21\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/490708372.jpg?k=a59fd15676cddef3e7eef59f29b571fd3a297c316cfb5f7c0ef4de76e0e65356\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/490708400.jpg?k=ee00e513ad0522bc0b0eb52d6b3a14cd40ef1e06379489e3818451a36d0d20e2\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/490708485.jpg?k=f6537c0f3d597bee8f4ae018be4c6e6ebd92889bc78c6be25d39b3a876e1f4c4\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/490708455.jpg?k=33286d842dad55bf04bc0cb4919dc85f9b0deb375c030bb555312d72a3a86e6f\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/484129488.jpg?k=de951ae11537920285776865ef10f23dc5434708c8b3e07ba0fcc5d7f17d1e21\u0026o=\u0026hp=1",
+        "HotelID": "us/hilton-new-york",
+        "HotelName": "New York Hilton Midtown",
+        "ID": 1,
+        "IDHotel": 55890,
+        "Location": "Manhattan, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "US$1,420.13",
+        "PropertyType": "Hotels",
+        "Rating": 7.4,
+        "ReviewCount": 2020
+      },
+      "id:56209": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Pet friendly",
+          " Facilities for disabled guests"
+        ],
+        "Bedroom": 5,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/187306066.jpg?k=7351c5d4d4ee9372c1098a29ff0427af7fd957760121ad5395b63462e4c52fe9\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/187173940.jpg?k=b764388e0e2a4313b520545e1bece8d02c6883ec782c1259a522c42444c5061a\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/78455180.jpg?k=e83ed24f432d2fa4894222cebd2200788e5de2228f5c447b0851ee23a60e9a1b\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/215674103.jpg?k=c0ac549bb9171dbc6c63f8abb25b2dfca78b579aaca4ea0f8b2025313db6995b\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/223218473.jpg?k=6b550e1f140453cdf254b764a84c15ae3466448fe0e1943fd5f7de40492f0121\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/187306066.jpg?k=7351c5d4d4ee9372c1098a29ff0427af7fd957760121ad5395b63462e4c52fe9\u0026o=\u0026hp=1",
+        "HotelID": "us/la-quinta-manhattan",
+        "HotelName": "The Hotel at Fifth Avenue",
+        "ID": 23,
+        "IDHotel": 56209,
+        "Location": "Manhattan, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "US$685.17",
+        "PropertyType": "Hotels",
+        "Rating": 7.6,
+        "ReviewCount": 3664
+      },
+      "id:56276": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Room service"
+        ],
+        "Bedroom": 1,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/83778532.jpg?k=c862949d155c335ad281459d5f30856fbcc1c9b8f481df0bcf1130ebdd79d937\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/52800626.jpg?k=413a3d0876f880ff33524253053b02228153c80985fb5baceb6904290bae5fd2\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/47389660.jpg?k=b2f3ef22929a6a857c76682c52a0c338ea4e09f155e619b0aa7d57e01e96e120\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/53044788.jpg?k=26f7a8505697ca9ff96b7aeb1b392a4b97b1b5cbd49a6b777dc186a0026a4619\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/53044862.jpg?k=33021d770778ce473fbd2c3d006735e47dbb0de3999a49eff2a70a966607e7a1\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/83778532.jpg?k=c862949d155c335ad281459d5f30856fbcc1c9b8f481df0bcf1130ebdd79d937\u0026o=\u0026hp=1",
+        "HotelID": "us/new-yorker-ramada-plaza",
+        "HotelName": "The New Yorker, A Wyndham Hotel",
+        "ID": 12,
+        "IDHotel": 56276,
+        "Location": "Manhattan, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "US$844.90",
+        "PropertyType": "Hotels",
+        "Rating": 7.7,
+        "ReviewCount": 15568
+      },
+      "id:5708046": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Restaurant"
+        ],
+        "Bedroom": 5,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/573435778.jpg?k=8281ab62458da1b4ca5f117a5940ecc5009fed00b27dbf96ac357b92c88a92bd\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/465438943.jpg?k=2b28a2bbe047cd1b91b39a48046883faa1f608160acd32848b2287126cba4c17\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/627345234.jpg?k=3b3495252cf358d1f32511d4a50b555f6d56ba28d84e3dd10e8db3db03456ba7\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/465439395.jpg?k=1d08449857b9d129c6aaa4b33bfdfde31cdd8f4a114a69bc4ade9401ba1c3683\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/627345208.jpg?k=e05cc2398c8b282d869056d4b43f39b6c3361f1868cb0fe0efc7309f6a047669\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/573435778.jpg?k=8281ab62458da1b4ca5f117a5940ecc5009fed00b27dbf96ac357b92c88a92bd\u0026o=\u0026hp=1",
+        "HotelID": "us/courtyard-new-york-downtown-manhattan-financial-district",
+        "HotelName": "Courtyard New York Downtown Manhattan/Financial District",
+        "ID": 19,
+        "IDHotel": 5708046,
+        "Location": "Manhattan, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "US$850",
+        "PropertyType": "Hotels",
+        "Rating": 7.6,
+        "ReviewCount": 2117
+      },
+      "id:606889": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Restaurant"
+        ],
+        "Bedroom": 5,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/628048060.jpg?k=47274add2426572b72c13e321c18e30d0c733cc788764103add91c38309cddc6\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/628048071.jpg?k=fcbd51f31f26507569928eb421cbdf8567b632a1f884b0a7595fe9818ba8b4ae\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/531424045.jpg?k=611dd5b65fecca6113832d16aafd03f927324d3c4def696448ec386f52eaabc9\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/531424025.jpg?k=acebcb2bcc75cf067b5c3acd80bcc42bd23f0cc301e85adcf65c196f508940cb\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/617032198.jpg?k=add2f0dd3c916dd43d94447ad7c4c0ff3ce18fb4a56bd22455db6883a2d6952a\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/628048060.jpg?k=47274add2426572b72c13e321c18e30d0c733cc788764103add91c38309cddc6\u0026o=\u0026hp=1",
+        "HotelID": "us/four-points-by-sheraton-financial-district",
+        "HotelName": "Four Points by Sheraton New York Downtown",
+        "ID": 3,
+        "IDHotel": 606889,
+        "Location": "Manhattan, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "US$929.90",
+        "PropertyType": "Hotels",
+        "Rating": 7.5,
+        "ReviewCount": 1978
+      },
+      "id:7078644": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Pet friendly"
+        ],
+        "Bedroom": 5,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/630543128.jpg?k=1918b834a208834aa992410a20fd6fe1a006b79d202c943819a3fdf9d9d49068\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/453296396.jpg?k=71d3c97437df1c861b3e3436334d9c49a04426d2a37e87ca7b2148677b1a8aa7\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/453296407.jpg?k=2de977d9c5e2232f6c1eec066c306d4c646f74375b7410824969d4e77ca5ae0a\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/453296419.jpg?k=40886af9295668871f0da63ea9d38914bae882299ad7939a70488d51faa6b7cd\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/453296376.jpg?k=6b418b6dd678c8aa02e1361e2540fc6c670489f7a6bbf5aae62b3dc59b5014f4\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/630543128.jpg?k=1918b834a208834aa992410a20fd6fe1a006b79d202c943819a3fdf9d9d49068\u0026o=\u0026hp=1",
+        "HotelID": "us/towneplace-suites-by-marriott-new-york-manhattan-chelsea",
+        "HotelName": "TownePlace Suites by Marriott New York Manhattan/Chelsea",
+        "ID": 15,
+        "IDHotel": 7078644,
+        "Location": "Manhattan, New York, New York, United States",
+        "NumBaths": 1,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "US$1,122.40",
+        "PropertyType": "Hotels",
+        "Rating": 8.1,
+        "ReviewCount": 7489
+      },
+      "id:7366978": {
+        "Amenities": [
+          "24-hour security",
+          " Wheelchair accessible",
+          " Shared lounge/TV area"
+        ],
+        "Bedroom": 3,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/430526231.jpg?k=6667752051b8af588800fa3079343d63793186312a4b48762fe04cc228946394\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/408593821.jpg?k=3dff0ab5a0a159fd20c4777a7a7361723771fbeafdf8c53690aa4752b8b99c9f\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/320984607.jpg?k=31a0a3dbd58a9e9a7106939e827fc6849cb4237416dac257734cc4e70e90a878\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/430396142.jpg?k=b39d0c86ea0d942b9fce0f443209792f136fa669690d9dbead509c3c68ee0064\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/430396041.jpg?k=cd119a30923a0f76761242cb025930e096840cad82bc191e4fe59f6820c4d451\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/430526231.jpg?k=6667752051b8af588800fa3079343d63793186312a4b48762fe04cc228946394\u0026o=\u0026hp=1",
+        "HotelID": "us/nap-york-new-york1",
+        "HotelName": "Nap York Central Park Sleep Station",
+        "ID": 8,
+        "IDHotel": 7366978,
+        "Location": "Manhattan, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "US$338.30",
+        "PropertyType": "Hostels",
+        "Rating": 8.2,
+        "ReviewCount": 5128
+      },
+      "id:7695414": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Pet friendly",
+          " Facilities for disabled guests"
+        ],
+        "Bedroom": 10,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/482037917.jpg?k=8212b26a87d056f0b956e48205e440298a8435b48af1bd41aaaf52b4f746a62e\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/482038065.jpg?k=fca3dea9012a53bab531a7f643a0991db3f153694609a412e06d1ec8431cca7c\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/482037970.jpg?k=c7d4a8324d9153ea8574ba791e1e542677d09e0da034c4c395d0481343b0632d\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/482038128.jpg?k=6afc00a04a7e1d192a1acdc53680566db9bcc868aabe4f30a744e9c531a4a410\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/482037994.jpg?k=7d33e74abf9f7ee898d5ae681d0904a72c8d6ee73c29c64eb468bb21505e171c\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/482037917.jpg?k=8212b26a87d056f0b956e48205e440298a8435b48af1bd41aaaf52b4f746a62e\u0026o=\u0026hp=1",
+        "HotelID": "us/project-nyc",
+        "HotelName": "The Cloud One New York-Downtown, by the Motel One Group",
+        "ID": 13,
+        "IDHotel": 7695414,
+        "Location": "Manhattan, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "US$914",
+        "PropertyType": "Hotels",
+        "Rating": 8.5,
+        "ReviewCount": 6291
+      },
+      "id:8229306": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Pet friendly"
+        ],
+        "Bedroom": 1,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/341425449.jpg?k=ae5efad48fdc684d6e726b1a8e92685489051e269c2af40097875116a766c657\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/341425515.jpg?k=5643032f5b44d9fef91aaee19545efb445a395018a68efb45e428f7ec25b4969\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/589421986.jpg?k=0581c01966cec135f5461a4b7687d6f9524144fcc8e7a6897dacfe12eefe61a2\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/589423538.jpg?k=a76a4f20ecd417a389e32e0c1a95025ab94ffacab4e5545564c37cfc904d2fae\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/453237503.jpg?k=7e81322b5d37f8fb97e57ead442d19323a75b65e1759565e3307a120ef484ebd\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/341425449.jpg?k=ae5efad48fdc684d6e726b1a8e92685489051e269c2af40097875116a766c657\u0026o=\u0026hp=1",
+        "HotelID": "us/the-fidi",
+        "HotelName": "The FIDI Hotel",
+        "ID": 11,
+        "IDHotel": 8229306,
+        "Location": "Manhattan, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "US$839.52",
+        "PropertyType": "Hotels",
+        "Rating": 8.1,
+        "ReviewCount": 1439
+      },
+      "id:9471585": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Restaurant",
+          " Wifi in all areas"
+        ],
+        "Bedroom": 3,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/465706815.jpg?k=b1ada8533feabe7124a019751c8191657bb65bc2369a15321a1464922c7d10e9\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/529173174.jpg?k=e9771dcad1b6414d4b82d809343027e63161065d93573298db0dcaec35fa03bf\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/526702262.jpg?k=5ab23a69631f7eabaa299aa09a1fc558f3c33ad26029c46f26e1ef11f7a42ece\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/613490134.jpg?k=3c115f40329d2a693cfa8b0f890494dc8b1f84754724077937d5ee4230e4b9db\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/613489825.jpg?k=a8447da636248e57bb15f4e533201cf30bdccf0a3df375b946d1daa1e02c7114\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/465706815.jpg?k=b1ada8533feabe7124a019751c8191657bb65bc2369a15321a1464922c7d10e9\u0026o=\u0026hp=1",
+        "HotelID": "us/kama-central-park",
+        "HotelName": "KAMA CENTRAL PARK",
+        "ID": 4,
+        "IDHotel": 9471585,
+        "Location": "Manhattan, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "US$305.52",
+        "PropertyType": "Hostels",
+        "Rating": 7.7,
+        "ReviewCount": 3251
+      },
+      "id:9722159": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Pet friendly"
+        ],
+        "Bedroom": 9,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/568783161.jpg?k=0cc7b0735538b980ed0bac78a45def10001b5c2f06b1ba17fe8320ff9555523d\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/497078508.jpg?k=d79505623fc338ba7cdd1fe3ef58aadbfdf38f671844ea1926415781f86f4ed9\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/572908304.jpg?k=c1f6a7ea9526c3fed2dcc45865b64aad684b9bfaf3daf26d77ce8b37106dba07\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/568783278.jpg?k=b42619ce012bc732ef0cf7dda029ee93a53012d175dbf10d8876943dd39be4c6\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/568783317.jpg?k=9979905d9ee1470eb9d90bc1d649d673851390ad264c2e4a0213c2938ac10b1f\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/568783161.jpg?k=0cc7b0735538b980ed0bac78a45def10001b5c2f06b1ba17fe8320ff9555523d\u0026o=\u0026hp=1",
+        "HotelID": "us/hampton-inn-new-york-times-square",
+        "HotelName": "Hampton Inn by Hilton New York Times Square",
+        "ID": 25,
+        "IDHotel": 9722159,
+        "Location": "Manhattan, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "US$1,309.03",
+        "PropertyType": "Hotels",
+        "Rating": 7.7,
+        "ReviewCount": 2324
+      }
+    },
+    {
+      "LocationId": "1174",
+      "Value": "Times Square, New York, New York, United States",
+      "id:10027699": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Pet friendly"
+        ],
+        "Bedroom": 10,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/492030917.jpg?k=c1f464007229821686ac6ca17ff2244cd4576f2b37b6345a3445ecaae823d744\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/492030940.jpg?k=f25e85ad5a27d5a4b6b7eca1376c332090db0363d949873f9a6a9934ef2e111c\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/464090155.jpg?k=623600df88d68d197f7af8f63d37207657c2182670b5e5493ac01344b58351cf\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/492030932.jpg?k=df8e903e658c95db7ed835ea9933a4d0cf4dc7a8db984e3b0bd235edd77da544\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/492030945.jpg?k=15fd41fb552ebad851102780a37c3d1dbc9cc151688b13a9ee60a5c70f548dde\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/492030917.jpg?k=c1f464007229821686ac6ca17ff2244cd4576f2b37b6345a3445ecaae823d744\u0026o=\u0026hp=1",
+        "HotelID": "us/romer-hell-39-s-kitchen",
+        "HotelName": "Romer Hell's Kitchen",
+        "ID": 38,
+        "IDHotel": 10027699,
+        "Location": "Times Square, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "US$1,281.60",
+        "PropertyType": "Hotels",
+        "Rating": 8.6,
+        "ReviewCount": 2365
+      },
+      "id:10438610": {
+        "Amenities": [
+          "Fitness center",
+          " Pet friendly",
+          " Wifi in all areas"
+        ],
+        "Bedroom": 1,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/480827598.jpg?k=e101d83730c61d7625a6ea2ad1ee03f95dfe585a16c56b82848aa573741c62cf\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/480829049.jpg?k=3cc6103a6ab5230f8a6eceb6ff9ad6300cad91c99f1838873728310dd3a84b5d\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/480829092.jpg?k=e7726baca5335e40227b75a17c35e830b64a19e383d82458078eff83e7ff53f1\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/583547203.jpg?k=017ad319e75eb23cc82c014bf881f79726c2cad3ed088d320a8d9fdd04aa1023\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/480828989.jpg?k=27123bdb5f2796fcee00d0a4a5c72439c83b1db58c6b8e639c1d0e7657925304\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/480827598.jpg?k=e101d83730c61d7625a6ea2ad1ee03f95dfe585a16c56b82848aa573741c62cf\u0026o=\u0026hp=1",
+        "HotelID": "us/4br-luxury-penthouse-grand-opening-promotion",
+        "HotelName": "Penthouse 5min to Top of the Rock, City Views, AC",
+        "ID": 28,
+        "IDHotel": 10438610,
+        "Location": "Times Square, New York, New York, United States",
+        "NumBaths": 3,
+        "NumBedR": 4,
+        "NumBeds": 4,
+        "Price": "US$15,978",
+        "PropertyType": "Apartments",
+        "Rating": 9.5,
+        "ReviewCount": 18
+      },
+      "id:1330071": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Facilities for disabled guests"
+        ],
+        "Bedroom": 2,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/602518154.jpg?k=9775063a57ee18fdc03000693de2a6953c9af36ad93cf700e1e71fa696e33b28\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/549803268.jpg?k=2f82d052530eb6ef6dbe322013ffd54f546ec34fb7b55c6f422d7916abbafd1b\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/549803255.jpg?k=761dd72dad046f55017909f58b44e97dc8ab00284903b9aec6d00a8ed21ee81f\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/602518164.jpg?k=ba56b7df2cce7130ac6d079bfb98e984014d45c11cf48e76bc695a5a9cd699b8\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/602518172.jpg?k=987cac314d2e7a75cba5b5fcc458fabb2bafc909f22cb737295c211f9613c5e4\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/602518154.jpg?k=9775063a57ee18fdc03000693de2a6953c9af36ad93cf700e1e71fa696e33b28\u0026o=\u0026hp=1",
+        "HotelID": "us/hampton-inn-times-square-central",
+        "HotelName": "Hampton Inn Times Square Central",
+        "ID": 40,
+        "IDHotel": 1330071,
+        "Location": "Times Square, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "US$1,421.83",
+        "PropertyType": "Hotels",
+        "Rating": 8.3,
+        "ReviewCount": 2835
+      },
+      "id:181383": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Pet friendly"
+        ],
+        "Bedroom": 5,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/590308564.jpg?k=a9e339bfc9a6e89697cc374476f5b87db4c8fa1f2708221889447e6dc9256107\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/590308568.jpg?k=b973588b7fca88399a32aa8697e4020c59dc2754be229675000dd380dfcb5531\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/628046352.jpg?k=9c8e160eb0446d70e954c29ea1baf439aa98e1df41b34ab2cff0d841b3affad5\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/590308562.jpg?k=4eacc1b856185540ae467da8933ecbc88301d0a85e93e60f70217599d0526276\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/628046388.jpg?k=5a7ef14948a19c74b5175eab03d6297a43645ae6b41adf06e8a7ba13ed32b531\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/590308564.jpg?k=a9e339bfc9a6e89697cc374476f5b87db4c8fa1f2708221889447e6dc9256107\u0026o=\u0026hp=1",
+        "HotelID": "us/four-points-by-sheraton-midtown-times-square",
+        "HotelName": "Four Points by Sheraton Midtown - Times Square",
+        "ID": 42,
+        "IDHotel": 181383,
+        "Location": "Times Square, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "US$1,249",
+        "PropertyType": "Hotels",
+        "Rating": 8.1,
+        "ReviewCount": 3103
+      },
+      "id:185999": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Pet friendly"
+        ],
+        "Bedroom": 5,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/475174788.jpg?k=35da2157bb7dc583b5c993b6a4907b9019405b99915cc1572d5e8947c4ab2266\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/469950804.jpg?k=6831ef0ff849813e3209da45258ad54dd710c8692c71c4b9dee82249db5bad3b\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/469950807.jpg?k=7ed28bc7f0f10873199c6ba1006893db8d14b40efff9c6a68db483d24cdffdc7\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/469950815.jpg?k=27fc275517062957fdfe558b7fde3fba82ea9297afc4c6530ca8345edb1afed0\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/469950808.jpg?k=9715a3675b88ba7615038cef3ae15f9822fdd5158beb500f4c947971df806d56\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/475174788.jpg?k=35da2157bb7dc583b5c993b6a4907b9019405b99915cc1572d5e8947c4ab2266\u0026o=\u0026hp=1",
+        "HotelID": "us/fairfield-inn-new-york-manhattan-times-sqaure",
+        "HotelName": "Fairfield By Marriott New York Manhattan Times Square",
+        "ID": 26,
+        "IDHotel": 185999,
+        "Location": "Times Square, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "US$1,416",
+        "PropertyType": "Hotels",
+        "Rating": 8.2,
+        "ReviewCount": 5632
+      },
+      "id:2012829": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Room service"
+        ],
+        "Bedroom": 9,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/485684506.jpg?k=aa6b48a0a762d1d5265a42a24c9da901d9a85121968fbf151b46441078f3a5be\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/485684509.jpg?k=86a89fd6670cb7e65e090a2a7d500d6b36529d345bdca4ba09b4a1f4d01d039b\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/485684510.jpg?k=8946c206bc506a1cd8a6d572a10f31a9b7ec5012ca6bec227abf094975267b6c\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/485684505.jpg?k=8567f475b3a899482c23f0ab72aeb756f381872f3a63c09ff2a95e14afe4e543\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/485684514.jpg?k=fc44b389568d321017cde316f9aad93f34584337812634495f0f27c5b5599ef9\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/485684506.jpg?k=aa6b48a0a762d1d5265a42a24c9da901d9a85121968fbf151b46441078f3a5be\u0026o=\u0026hp=1",
+        "HotelID": "us/doubletree-by-hilton-new-york-times-square-west",
+        "HotelName": "Doubletree By Hilton New York Times Square West",
+        "ID": 41,
+        "IDHotel": 2012829,
+        "Location": "Times Square, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "US$1,194.25",
+        "PropertyType": "Hotels",
+        "Rating": 7,
+        "ReviewCount": 11451
+      },
+      "id:22296": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Room service"
+        ],
+        "Bedroom": 3,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/430855371.jpg?k=0f12fd6f26f3e2eefe92f1524df7883296da802b7c268713c0b8d216ebbb2ad5\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/430855390.jpg?k=b66e0d37b7fb73a0385150c29e2ec0f9492652281047bf3c1ee38082206d24ca\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/430855412.jpg?k=4983973d6ae442fba133feee71c71d10a2d03b344db13f87b5998df6ba9b4e4a\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/430855443.jpg?k=c5ed9f691fc3ac0dbc35ce1cad853a0fe5b8c1ad38bbee0b5110db55840dcb4f\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/430855395.jpg?k=7356ac8e25db4cf4437b58ec6ef3aafe6cc1d5759447ba72546f8fe186bba6aa\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/430855371.jpg?k=0f12fd6f26f3e2eefe92f1524df7883296da802b7c268713c0b8d216ebbb2ad5\u0026o=\u0026hp=1",
+        "HotelID": "us/w-new-york-times-square",
+        "HotelName": "W New York - Times Square",
+        "ID": 35,
+        "IDHotel": 22296,
+        "Location": "Times Square, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "US$1,517",
+        "PropertyType": "Hotels",
+        "Rating": 7.7,
+        "ReviewCount": 1375
+      },
+      "id:254395": {
+        "Amenities": [
+          "1 swimming pool",
+          " Non-smoking rooms",
+          " Fitness center"
+        ],
+        "Bedroom": 8,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/453091151.jpg?k=a569157afc2649943b2a521d6759ec229b947f6f35fe3d475c6d4a12fa6f755f\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/453091152.jpg?k=e95812217cf1ce9b116a21b0cb855c333516a9fddbc5692b6ab0952226808772\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/453091192.jpg?k=351fb5d37494df4f40bf5d42a6f02142536dd2f01b79be4103f038f28ece392c\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/453091149.jpg?k=57600df9414cff59a5b1ad7b14be871348ac2b8e869a91dfaa6c6cf519063c74\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/453091150.jpg?k=5e8f2445002f994801ab7d58e1b4eba844fae1bc38615234513ea47ef0dc90e0\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/453091151.jpg?k=a569157afc2649943b2a521d6759ec229b947f6f35fe3d475c6d4a12fa6f755f\u0026o=\u0026hp=1",
+        "HotelID": "us/the-chatwal",
+        "HotelName": "The Chatwal, The Unbound Collection by Hyatt",
+        "ID": 34,
+        "IDHotel": 254395,
+        "Location": "Times Square, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "US$3,816",
+        "PropertyType": "Hotels",
+        "Rating": 8.4,
+        "ReviewCount": 74
+      },
+      "id:265391": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Pet friendly"
+        ],
+        "Bedroom": 5,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/433360176.jpg?k=4a65ed6d2bffd712ac0cbbed2ec8057f4f41a32050a20ebfe89dc988740ea224\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/433360151.jpg?k=8d77524e2083c0991e75a6e4fad857c346db6b2ecbf904973d40ba9b48055547\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/433360174.jpg?k=ccd3aac2de712269b31f13a870c76229db4350bc1b8b4993265bce4bd0a6ce1e\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/457523689.jpg?k=d977381457f7d0251b7dfab6e0686b230936b9e5ac79a5aae5b07698878afd49\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/433360177.jpg?k=e1625e8eb9a42fbbd50198abd2c4cb887b140b316e6c3fd6265bbf7f78bb6b9a\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/433360176.jpg?k=4a65ed6d2bffd712ac0cbbed2ec8057f4f41a32050a20ebfe89dc988740ea224\u0026o=\u0026hp=1",
+        "HotelID": "us/residence-inn-new-york-manhattan-times-square",
+        "HotelName": "Residence Inn by Marriott New York Manhattan/Times Square",
+        "ID": 43,
+        "IDHotel": 265391,
+        "Location": "Times Square, New York, New York, United States",
+        "NumBaths": 1,
+        "NumBedR": 0,
+        "NumBeds": 2,
+        "Price": "US$1,405.05",
+        "PropertyType": "Hotels",
+        "Rating": 8,
+        "ReviewCount": 6977
+      },
+      "id:278666": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Room service",
+          " Pet friendly"
+        ],
+        "Bedroom": 4,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/105395680.jpg?k=dee44bd9bed542dcaa05a2bdb51aeb1373ce448f445082aaf75fa7d3b1e04306\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/105395672.jpg?k=f00d54d8950cc782677338222a5a85b1191f4a71f598d05098ab02d75eff04b5\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/9680144.jpg?k=80f859be399feb8d373ff138acca221920719532b66fa0eacfb56d3ddc9f491d\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/105383894.jpg?k=29e782e0301f68a000910e9d7db8ed1cd5bcad9170067b15378b2fd95c6322e5\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/105395665.jpg?k=7ed8861b230af46c887bb1c8addd25677f64694eea230fc0d216ac147b283160\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/105395680.jpg?k=dee44bd9bed542dcaa05a2bdb51aeb1373ce448f445082aaf75fa7d3b1e04306\u0026o=\u0026hp=1",
+        "HotelID": "us/sanctuary-new-york",
+        "HotelName": "Sanctuary Hotel New York",
+        "ID": 44,
+        "IDHotel": 278666,
+        "Location": "Times Square, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "US$1,805.40",
+        "PropertyType": "Hotels",
+        "Rating": 8.2,
+        "ReviewCount": 1524
+      },
+      "id:3961780": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Pet friendly",
+          " Facilities for disabled guests"
+        ],
+        "Bedroom": 10,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/180756567.jpg?k=62c0f89eb0af4ef1dff9c4ff3f54f795f779739bdea0c43d41b0af257ba44f6d\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/194779464.jpg?k=581fd3ffab90dfa24e18529f8ddd04af5594819aec40567e6ec2acdda0a5799d\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/194779431.jpg?k=10338a562c482b63c88361e895f459e94fef860da7fc310109cf521db0ca3b42\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/194781376.jpg?k=17c2e2528c96979d860f75afccb96bce1a71b2328a86ad61d3391bb8c442edf7\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/204961573.jpg?k=bd6a989dcd27e80e3b1ab417da77ff046a6f166c2b7e6f738e97493366c3c7d3\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/180756567.jpg?k=62c0f89eb0af4ef1dff9c4ff3f54f795f779739bdea0c43d41b0af257ba44f6d\u0026o=\u0026hp=1",
+        "HotelID": "us/staypineapple-artful-hotel-new-york",
+        "HotelName": "Staypineapple, An Artful Hotel, Midtown New York",
+        "ID": 31,
+        "IDHotel": 3961780,
+        "Location": "Times Square, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "US$1,006.21",
+        "PropertyType": "Hotels",
+        "Rating": 8.6,
+        "ReviewCount": 1637
+      },
+      "id:5218600": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Pet friendly"
+        ],
+        "Bedroom": 4,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/535073142.jpg?k=b62b5ba690eed5296f4e4249f65ed2589cd92fbe06d1457f4e46e1af1e6ac006\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/535073125.jpg?k=9c55c47efc7d4bfeaf0f85de9cb5580af168f05d1a5542a79ae667afc07c5065\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/535073133.jpg?k=f6387aad4884b4c47a67899d32ce28aa41999f23416254576f434c89a576515a\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/535073127.jpg?k=83c6470d8699bc2f549d5f181dbc1fc3ad8b6754769d551bb15711edbd66a1ae\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/535073128.jpg?k=7c6d3c7d53bbb87171936efc28cd87d002e1dcf236765c78c53db52b0cf5fc8e\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/535073142.jpg?k=b62b5ba690eed5296f4e4249f65ed2589cd92fbe06d1457f4e46e1af1e6ac006\u0026o=\u0026hp=1",
+        "HotelID": "us/hyatt-place-new-york-city-times-square",
+        "HotelName": "Hyatt Place New York City - Times Square",
+        "ID": 27,
+        "IDHotel": 5218600,
+        "Location": "Times Square, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 2,
+        "Price": "US$1,328.04",
+        "PropertyType": "Hotels",
+        "Rating": 7.6,
+        "ReviewCount": 21975
+      },
+      "id:56110": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Pet friendly"
+        ],
+        "Bedroom": 7,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/585970843.jpg?k=536377aa62f93d520634d999265df49c4c5eb6c3320e85d230751f2cd817f319\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/587029376.jpg?k=982ddf1b90dfb2844ba2299e92ea9da8482c34ca2346e69d6e14c9062520aeb2\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/587029454.jpg?k=92896bc92966185c208f16fec48f2646cc09377447548718e0525814c67763c6\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/559844599.jpg?k=2a2769e00407ea8a186e1fd5bfda23abec341544c3a0b5f2142c999a007703f5\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/587029641.jpg?k=79d8c93788cd7c1bb6af3cbd958488bf44d221f8b9ccee59b0ede1b4a6d28294\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/585970843.jpg?k=536377aa62f93d520634d999265df49c4c5eb6c3320e85d230751f2cd817f319\u0026o=\u0026hp=1",
+        "HotelID": "us/aura-hotel-time-square",
+        "HotelName": "Aura Hotel Times Square Newly Renovated",
+        "ID": 33,
+        "IDHotel": 56110,
+        "Location": "Times Square, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "US$1,181.80",
+        "PropertyType": "Hotels",
+        "Rating": 7.6,
+        "ReviewCount": 421
+      },
+      "id:56166": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Pet friendly"
+        ],
+        "Bedroom": 1,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/205408681.jpg?k=bfdeb2f418112b7ad30a539e03193030612743db57d5c17b86fc60741ff08aa8\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/109812537.jpg?k=137c2e31748674df595e0bd2f111ac8dd2329706c655c873c545db70b8b7fa5a\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/618366542.jpg?k=74323a6069e228e6ad19444dd06f0aa11003080c0943d2b4a953b3ac04693484\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/205826406.jpg?k=6dbd94d1bc10154c385221bc43f2c747770546323db2337adbb1cd7056943d73\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/618367119.jpg?k=69ca24320a5a4f458ee8a0a54f9e84884d903fb15c433056052504897c7fc9df\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/205408681.jpg?k=bfdeb2f418112b7ad30a539e03193030612743db57d5c17b86fc60741ff08aa8\u0026o=\u0026hp=1",
+        "HotelID": "us/royalton",
+        "HotelName": "Royalton New York",
+        "ID": 29,
+        "IDHotel": 56166,
+        "Location": "Times Square, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "US$1,140.14",
+        "PropertyType": "Hotels",
+        "Rating": 7.6,
+        "ReviewCount": 3042
+      },
+      "id:617927": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Pet friendly"
+        ],
+        "Bedroom": 9,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/484863305.jpg?k=b7feed33d9c42ffd48efaf7e1cda3f90b1af494b6d559e5d42ba30fb964074d9\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/484863610.jpg?k=327474084faf10063543f3f5e9a1916ec9218e30634555233a96ae7369f6bd1d\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/484863760.jpg?k=f82f889dc915ef061f3d6e3c287f8c592d41bdb0b2b6c468c90ebe77f470af64\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/484863512.jpg?k=d262c193020dd6cadb9d55a8c1ac857f8ca723f110254c579c25ea22a445e2f8\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/484863703.jpg?k=f2934bf3e692c1caf96365eb0f54a6a65a15a5ad99782331231bb4df2ad8349f\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/484863305.jpg?k=b7feed33d9c42ffd48efaf7e1cda3f90b1af494b6d559e5d42ba30fb964074d9\u0026o=\u0026hp=1",
+        "HotelID": "us/homewood-suites-midtown-manhattan-times-square-south",
+        "HotelName": "Homewood Suites Midtown Manhattan Times Square South",
+        "ID": 36,
+        "IDHotel": 617927,
+        "Location": "Times Square, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "US$1,332.01",
+        "PropertyType": "Hotels",
+        "Rating": 8.3,
+        "ReviewCount": 4407
+      },
+      "id:7058315": {
+        "Amenities": [
+          "1 swimming pool",
+          " Non-smoking rooms",
+          " Fitness center"
+        ],
+        "Bedroom": 10,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/312889863.jpg?k=047f092b672cd2c89721cd71de18bc26b1a7874abbe867d48eda49bb89c0b7ed\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/556029258.jpg?k=c443942e98be2e0f25ba94dfc5f35d41ebb1c16571eac4be6575264c5ae30fc5\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/320149529.jpg?k=0b85d81f3b2bc8eb970c7ff7609dd349d10c38104f94a7fceaba8009e9e0d85e\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/320149009.jpg?k=473abf04b4d091ba78bbfe9838b3e83e2a14ec3cdd01a4dafd38f6a9a49ef10c\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/312889946.jpg?k=2836e1a40f31f33d0d471d4e28b3329ed6a0b49cfac412e3d1ad9189ac99b95a\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/312889863.jpg?k=047f092b672cd2c89721cd71de18bc26b1a7874abbe867d48eda49bb89c0b7ed\u0026o=\u0026hp=1",
+        "HotelID": "us/margaritaville-resort-times-square",
+        "HotelName": "Margaritaville Resort Times Square",
+        "ID": 37,
+        "IDHotel": 7058315,
+        "Location": "Times Square, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "US$1,192.28",
+        "PropertyType": "Hotels",
+        "Rating": 8.6,
+        "ReviewCount": 3868
+      },
+      "id:7185135": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Pet friendly",
+          " Restaurant"
+        ],
+        "Bedroom": 10,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/320920932.jpg?k=0eac51b914cca17d067a5442459133cbded4d239f178ca304917ac38c2599f5a\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/328854518.jpg?k=2347752a7ffb08ae1c2827c9a6b4d7b67e79dd62f42aa02dd21e72563363e1a7\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/329916493.jpg?k=692cc6f7dbd62e6d1d5c7ad862b5c4426166cd5fc998dc19423543dddca6f858\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/329916439.jpg?k=a1739070a9dcff6ba662abe338b1ec958139c5b687f4a34f19059794d0b370a6\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/329916425.jpg?k=1c3b36be2f0746439041aaa388ae11ae11d1f88e72254fd7d947b154c58d01bd\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/320920932.jpg?k=0eac51b914cca17d067a5442459133cbded4d239f178ca304917ac38c2599f5a\u0026o=\u0026hp=1",
+        "HotelID": "us/civilian-nyc",
+        "HotelName": "CIVILIAN Hotel",
+        "ID": 39,
+        "IDHotel": 7185135,
+        "Location": "Times Square, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "US$1,266.91",
+        "PropertyType": "Hotels",
+        "Rating": 8.6,
+        "ReviewCount": 4699
+      },
+      "id:78912": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Facilities for disabled guests"
+        ],
+        "Bedroom": 1,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/442811339.jpg?k=e89ae66126c9c1239ea05e7a9b5f0423ed15739432d7649eb6e6b06109aba180\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/442807425.jpg?k=d3d0eee5018496fdcfdcb6a830ac764f91ea6f86370c9815292cc092fb2e9b81\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/442813603.jpg?k=a67dade2d4372d1692b8dac6c928ce85289f945dab692688266770cca6947ff9\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/442807358.jpg?k=66e303fb19330a668bc29ad094946ad76e399b126604bf9d293ad70d3b529d9a\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/482956359.jpg?k=8c332d8284f2475504fc4cabff0d15fce76e1bc2ea03107ad20699283d21815d\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/442811339.jpg?k=e89ae66126c9c1239ea05e7a9b5f0423ed15739432d7649eb6e6b06109aba180\u0026o=\u0026hp=1",
+        "HotelID": "us/45-times-square-hotel",
+        "HotelName": "45 Times Square Hotel",
+        "ID": 30,
+        "IDHotel": 78912,
+        "Location": "Times Square, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "US$1,280",
+        "PropertyType": "Hotels",
+        "Rating": 8.3,
+        "ReviewCount": 2927
+      },
+      "id:9057624": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Room service"
+        ],
+        "Bedroom": 9,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/484129670.jpg?k=2ec40c98569ed0f39d8ac4aa32373ea49b4e786cd7d858d4dd204dc4ce721029\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/484129663.jpg?k=671f0df92e4ac1bdbd799c1bf4c5b3919e65e0f6ec4c5570ea2481045f560926\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/484129729.jpg?k=75dcc03fa5a1d5ace64b84d7d9f73d485f67ad3436eb10f2ddb6a898d65c7bf9\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/626836902.jpg?k=58f1e8a297b96b5667a5323461bfd6d31db66859f559c43e1f23d5bd49c0173b\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/484129712.jpg?k=4b1a25b4be4b27c5a58fbd892122368cb848b5b17c3e9f13b74e7e0e2b7aff86\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/484129670.jpg?k=2ec40c98569ed0f39d8ac4aa32373ea49b4e786cd7d858d4dd204dc4ce721029\u0026o=\u0026hp=1",
+        "HotelID": "us/hilton-times-square-new-york",
+        "HotelName": "Hilton New York Times Square",
+        "ID": 45,
+        "IDHotel": 9057624,
+        "Location": "Times Square, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "US$1,919.61",
+        "PropertyType": "Hotels",
+        "Rating": 7.4,
+        "ReviewCount": 1144
+      },
+      "id:9722158": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Pet friendly"
+        ],
+        "Bedroom": 9,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/498855546.jpg?k=3a2c98f1fcc2d0e341c375c2af07fbd5634b6839ebca4878396329f42d4cf3d4\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/498855548.jpg?k=8ae89930149095842b40ad0d75080c8e81f95f559a7b5afd29da2ffb45923315\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/498855555.jpg?k=9f70a1839efed998c7c61740d199777e67516b91471bb94c0e99b367241df7e9\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/570051502.jpg?k=7f03ad5859c0b0d7df83720be8ffaa66b1845c708788d1543fe2450d57efb600\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/570051504.jpg?k=6453ce4afbbecf5e346b894627e3aaa7de5bf78c58d85722c9ac9398cdbe9c89\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/498855546.jpg?k=3a2c98f1fcc2d0e341c375c2af07fbd5634b6839ebca4878396329f42d4cf3d4\u0026o=\u0026hp=1",
+        "HotelID": "us/home2-suites-by-hilton-new-york-times-square",
+        "HotelName": "Home2 Suites By Hilton New York Times Square",
+        "ID": 32,
+        "IDHotel": 9722158,
+        "Location": "Times Square, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 1,
+        "NumBeds": 1,
+        "Price": "US$1,141.55",
+        "PropertyType": "Hotels",
+        "Rating": 7.7,
+        "ReviewCount": 1186
+      }
+    },
+    {
+      "LocationId": "1397916",
+      "Value": "Riu Plaza New York Times Square, New York, New York, United States",
+      "id:1397916": {
+        "Amenities": [
+          ""
+        ],
+        "Bedroom": 0,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/178773353.jpg?k=9bd0190ff5a25ce00dac63185dbcb92565380b03e40711f2a243c33cff6ffd87\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/98120216.jpg?k=7dba1cf1ee19148b8541f6ffae9e067825491061dc28f375c61b041955b4faa7\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/302399559.jpg?k=630ea67ccf42e01cdff8fcdd325a64c03778c0839c8bfda9167d16b635a6db7b\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/178773334.jpg?k=2e1d2122ee9ffccd8a1ba4d87c918f1ded2c7b3c3b67a141347d09a14f6bf270\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/72152015.jpg?k=5f8049ae4e88c2ba434c33ed78fe9d6a66ac445f78089f7b1112b0507d487c3c\u0026o=\u0026hp=1"
+        ],
+        "Guests": 0,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/178773353.jpg?k=9bd0190ff5a25ce00dac63185dbcb92565380b03e40711f2a243c33cff6ffd87\u0026o=\u0026hp=1",
+        "HotelID": "us/riu-plaza-new-york-times-square",
+        "HotelName": "Riu Plaza New York Times Square",
+        "ID": 78,
+        "IDHotel": 1397916,
+        "Location": "Riu Plaza New York Times Square, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 0,
+        "Price": "",
+        "PropertyType": "",
+        "Rating": 8.5,
+        "ReviewCount": 7300
+      },
+      "id:182266": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Facilities for disabled guests"
+        ],
+        "Bedroom": 6,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/234144095.jpg?k=e0b902b1e96ae75e4ba9747c396e83cbd05fbcff805543cdb46a9573ed80035c\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/246814491.jpg?k=9d8b6206e35d0a214a62be6717ef12b3bc7f7f9584d48aadca12f7ddac53308a\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/246814419.jpg?k=a42c0ac568136a36508a1f219a0bc05649fe04fc0b18992ddcda76eda6dfe890\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/251803645.jpg?k=c4114c169d3603606d9d2f5cc2990523f836f6ef6519a0aab0056b5d59a435b8\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/246814560.jpg?k=97f727403808b0ad76b907e1a35d7a4d94395c440eb1bc396940c633fe328d40\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/234144095.jpg?k=e0b902b1e96ae75e4ba9747c396e83cbd05fbcff805543cdb46a9573ed80035c\u0026o=\u0026hp=1",
+        "HotelID": "us/holiday-inn-express-new-york-city-wall-street",
+        "HotelName": "Holiday Inn Express - Wall Street, an IHG Hotel",
+        "ID": 79,
+        "IDHotel": 182266,
+        "Location": "Riu Plaza New York Times Square, New York, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "US$845.64",
+        "PropertyType": "Hotels",
+        "Rating": 7.2,
+        "ReviewCount": 1905
+      },
+      "id:7066178": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Fitness center",
+          " Facilities for disabled guests"
+        ],
+        "Bedroom": 5,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/591282296.jpg?k=c1eef0ab0ac72b593dcdb96f00569718c457f64e4fd2b877bd1dda14134cb21c\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/558403717.jpg?k=8ff554e65249b510d842186619b67119537f62b81afeb2689468ed55139c74cc\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/581278264.jpg?k=42a474e3fdb5a588ee4c8f6368235c4956a05c7d94506ed2e8e7a3812dfd26eb\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/558403470.jpg?k=9f46e4a1cbe537d77158a3e68adc74b86622d4877d98c9cf80bef0b15ed9d898\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/558403072.jpg?k=1a805d1326c382dc7fd960eff74e2a81b18cc29223de61a6fd477c46ee5287fa\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/591282296.jpg?k=c1eef0ab0ac72b593dcdb96f00569718c457f64e4fd2b877bd1dda14134cb21c\u0026o=\u0026hp=1",
+        "HotelID": "us/springhill-suites-by-marriott-new-york-manhattan-chelsea",
+        "HotelName": "SpringHill Suites by Marriott New York Manhattan Chelsea",
+        "ID": 80,
+        "IDHotel": 7066178,
+        "Location": "Riu Plaza New York Times Square, New York, New York, United States",
+        "NumBaths": 1,
+        "NumBedR": 1,
+        "NumBeds": 1,
+        "Price": "US$1,241",
+        "PropertyType": "Hotels",
+        "Rating": 8.2,
+        "ReviewCount": 10794
+      }
+    },
+    {
+      "LocationId": "20085207",
+      "Value": "Brooklyn, New York, United States",
+      "id:10668630": {
+        "Amenities": [
+          ""
+        ],
+        "Bedroom": 0,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/552679053.jpg?k=f5a0e1420d55db30e288ec20dadad07d1725e9e2dc673c1f1255cd7307e3465f\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/552679212.jpg?k=862f953abf66e8105ece8c7a273fcf3ce4a292f188d76799e1998f73c4ac86c0\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/552679175.jpg?k=f9f8f772a36b4f69b06fd7d16b7f7173eba45892daf80b7cf889d1a15eb31b16\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/552679149.jpg?k=7f428a6df81b0d55e246fc31324b9c1988ba66872288a7a79278b0f22d1356b2\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/552679130.jpg?k=01c3b7ca2744c0389f0cd712a8e00cf386776bf932e03a4ac8f172e665288f05\u0026o=\u0026hp=1"
+        ],
+        "Guests": 0,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/552679053.jpg?k=f5a0e1420d55db30e288ec20dadad07d1725e9e2dc673c1f1255cd7307e3465f\u0026o=\u0026hp=1",
+        "HotelID": "us/tru-by-hilton-brooklyn",
+        "HotelName": "Tru By Hilton Brooklyn",
+        "ID": 105,
+        "IDHotel": 10668630,
+        "Location": "Brooklyn, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$1,125.07",
+        "PropertyType": "",
+        "Rating": 7.7,
+        "ReviewCount": 127
+      },
+      "id:1223168": {
+        "Amenities": [
+          ""
+        ],
+        "Bedroom": 0,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/244759766.jpg?k=2f47183280941fd150e69be13ddcac7419fd43780a9f5a379f9f49d3803ab75f\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/244766658.jpg?k=748e532277d3800fe193d2a3113f4c2a35ff7e42b9ac745cae03b0f74f83cec6\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/245760337.jpg?k=b52371d2c192162b3b41c39c5db70ce5c1c7af1369156daa7bfb95380dd17608\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/245817513.jpg?k=04740a45a1532863b914b7694e907c8ecd9b5d676a5ce51c5b9daf4ba4dc57c3\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/244759764.jpg?k=ea28203c791e6ac58c389ba96b10d85b20302de498b40802c2ee84624a6098ef\u0026o=\u0026hp=1"
+        ],
+        "Guests": 0,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/244759766.jpg?k=2f47183280941fd150e69be13ddcac7419fd43780a9f5a379f9f49d3803ab75f\u0026o=\u0026hp=1",
+        "HotelID": "us/holiday-inn-brooklyn-nevins-station",
+        "HotelName": "Holiday Inn Brooklyn Downtown, an IHG Hotel",
+        "ID": 88,
+        "IDHotel": 1223168,
+        "Location": "Brooklyn, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$941.87",
+        "PropertyType": "",
+        "Rating": 7.4,
+        "ReviewCount": 4183
+      },
+      "id:12905084": {
+        "Amenities": [
+          ""
+        ],
+        "Bedroom": 0,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/622527831.jpg?k=6457f7e561592118e8264c37987775aeff70e66d452c95cc051c0044cf2e4006\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/622527856.jpg?k=b3296a6c9c4068fa54605708283073072ac26ec9a951e83106774ffeaae38bec\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/622527872.jpg?k=d4c6dbcb9e3616e3e978838fd91e8cc5b919d09b3c5bad11ced9a53f26071672\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/622527833.jpg?k=89d30f66615553af334810ea4555215028f1636afc99f96fc2836bbdd5c698c2\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/622527857.jpg?k=08283ace894fa0128adcc4e746f1667e2916e137bbc445e6c194b4ec6161f56a\u0026o=\u0026hp=1"
+        ],
+        "Guests": 0,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/622527831.jpg?k=6457f7e561592118e8264c37987775aeff70e66d452c95cc051c0044cf2e4006\u0026o=\u0026hp=1",
+        "HotelID": "us/ramada-by-wyndham-brooklyn-near-flatbush",
+        "HotelName": "Ramada by Wyndham Brooklyn Near Flatbush",
+        "ID": 100,
+        "IDHotel": 12905084,
+        "Location": "Brooklyn, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$663",
+        "PropertyType": "",
+        "Rating": 5.2,
+        "ReviewCount": 8
+      },
+      "id:13054471": {
+        "Amenities": [
+          ""
+        ],
+        "Bedroom": 0,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/611186349.jpg?k=393d7a8d1dc629e4d5bfcbbcdf8d9fb817e3886e59a13e731994ef1d8a3a9f7e\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/611186381.jpg?k=849c7969ab8d25fc99b1dbc4d48cdad2000fe7a4729a35ce17e98421a555b683\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/611186385.jpg?k=b5d9d0cbae9df3d73bcd4ad3a41efbde500a3ec20ab047c66cb5361b25031892\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/611186392.jpg?k=9facc463ba843fc173c3d7cf12655b8b9a5d4359a1db2a31747c3dc9337d908a\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/611186394.jpg?k=c7ff405f345f740cb1061c246bc524ca8c582d6e13ccb16e5f61c9e2e3ee07f5\u0026o=\u0026hp=1"
+        ],
+        "Guests": 0,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/611186349.jpg?k=393d7a8d1dc629e4d5bfcbbcdf8d9fb817e3886e59a13e731994ef1d8a3a9f7e\u0026o=\u0026hp=1",
+        "HotelID": "us/essence-park-slope",
+        "HotelName": "Essence Hotel Park Slope",
+        "ID": 92,
+        "IDHotel": 13054471,
+        "Location": "Brooklyn, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$660.60",
+        "PropertyType": "",
+        "Rating": 5.7,
+        "ReviewCount": 21
+      },
+      "id:13342984": {
+        "Amenities": [
+          ""
+        ],
+        "Bedroom": 0,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/631352152.jpg?k=064ed1533f7cbbdb84e3846c5094a67773de7f4aa9673a9e246aeb72bd4f69ea\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/631352198.jpg?k=6ca3e210301b348eac0433d11e32a8ef4193ab7262ba10fdc3c69366a04a2a78\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/631352177.jpg?k=5dfb68f76e56f18ffe22995cf7d57ecba004f43210947445edb75a0517745ee2\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/631352209.jpg?k=16bc2fb039850e94581dd80a93d3c26a0656be9e9db7012e573353e80e6cb03c\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/631352183.jpg?k=61da5f23a47a4633afa4a54fa347c856b49a6c5374d1fcd0466fc6285acf2399\u0026o=\u0026hp=1"
+        ],
+        "Guests": 0,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/631352152.jpg?k=064ed1533f7cbbdb84e3846c5094a67773de7f4aa9673a9e246aeb72bd4f69ea\u0026o=\u0026hp=1",
+        "HotelID": "us/edmones-cozy-1bed-apartment-suite",
+        "HotelName": "Edmones Cozy 1bed Apartment Suite",
+        "ID": 103,
+        "IDHotel": 13342984,
+        "Location": "Brooklyn, New York, United States",
+        "NumBaths": 1,
+        "NumBedR": 1,
+        "NumBeds": 2,
+        "Price": "$774",
+        "PropertyType": "",
+        "Rating": 0,
+        "ReviewCount": 0
+      },
+      "id:1363911": {
+        "Amenities": [
+          ""
+        ],
+        "Bedroom": 0,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/56245654.jpg?k=6457fe6da40c55bad669f1c071983f6bdaf257bb221c7fb8a56f5aca637bf985\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/135282148.jpg?k=c3a5339ffaabf5364f80066df6078fe28c4e818adb76e2fee1977d0cbc06605a\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/46463761.jpg?k=4ae4abfd2157f0111e652c203c4595ead53450b1d9f35e6e1895bb85f30a71dd\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/103039942.jpg?k=7e3dd314352c616203a59fd702affe19384ba8397937b2d1f763762078381e40\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/103031727.jpg?k=9005d98ca1bcf4de8ce273d3ac3e15be10d06e31193125bbac6e22c3e608fc2a\u0026o=\u0026hp=1"
+        ],
+        "Guests": 0,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/56245654.jpg?k=6457fe6da40c55bad669f1c071983f6bdaf257bb221c7fb8a56f5aca637bf985\u0026o=\u0026hp=1",
+        "HotelID": "us/wyndham-garden-barclays-center-brooklyn-new-york",
+        "HotelName": "Wyndham Garden Brooklyn Sunset Park",
+        "ID": 97,
+        "IDHotel": 1363911,
+        "Location": "Brooklyn, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$883.20",
+        "PropertyType": "",
+        "Rating": 7.9,
+        "ReviewCount": 1290
+      },
+      "id:180790": {
+        "Amenities": [
+          ""
+        ],
+        "Bedroom": 0,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/40286967.jpg?k=746d66ead6dc7b0011288a5bd5322e63bea389c9e8f161d25ef0ff4fa5026eb9\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/304503065.jpg?k=ad3b179748f36a21590df664050008855daa35f4e06b207687ee6a178eea75bc\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/304503383.jpg?k=ca113f76e5b025d8ac88ac674ff3272f654a80c80e79484720d1f38dc6072bf2\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/304502275.jpg?k=2a009cd06472ed45ce3c93804ac48eac364070a701ea643fb681fc73ecc6fcd8\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/304501697.jpg?k=9630bdafe604073d738246462062d31b1b53b6100e9a4ebfd8ddbdd04701e374\u0026o=\u0026hp=1"
+        ],
+        "Guests": 0,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/40286967.jpg?k=746d66ead6dc7b0011288a5bd5322e63bea389c9e8f161d25ef0ff4fa5026eb9\u0026o=\u0026hp=1",
+        "HotelID": "us/knights-inn-brooklyn-sunset-park",
+        "HotelName": "Knights Inn Brooklyn Sunset Park",
+        "ID": 90,
+        "IDHotel": 180790,
+        "Location": "Brooklyn, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$624.60",
+        "PropertyType": "",
+        "Rating": 6.4,
+        "ReviewCount": 506
+      },
+      "id:1975205": {
+        "Amenities": [
+          ""
+        ],
+        "Bedroom": 0,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/88151311.jpg?k=9ae79456cf64270bad45db155c7ecabbf4160d37cb4b02be2399e666006eb627\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/88151309.jpg?k=f826ffcbba5f98aee22ac83ead20cf7864ab476e48004cd5c16ffbb9c156d055\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/88151317.jpg?k=67598643282d6d5f0601ce537bca99a01dc4ac9e3a577522a99016914dbc6218\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/88151271.jpg?k=8536ee730cfd7ffd604131bf9623b00d02921cfe6615f199cf425e54d06e7b66\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/161916480.jpg?k=5e3f5eb0eacb5302693a2137aa23ec8ed4235e2097de61eff0b015aafc356dae\u0026o=\u0026hp=1"
+        ],
+        "Guests": 0,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/88151311.jpg?k=9ae79456cf64270bad45db155c7ecabbf4160d37cb4b02be2399e666006eb627\u0026o=\u0026hp=1",
+        "HotelID": "us/rl-by-red-lion-brooklyn-bed-stuy",
+        "HotelName": "Hotel 1080",
+        "ID": 86,
+        "IDHotel": 1975205,
+        "Location": "Brooklyn, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$779.80",
+        "PropertyType": "",
+        "Rating": 7,
+        "ReviewCount": 1014
+      },
+      "id:235242": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Room service",
+          " Pet friendly"
+        ],
+        "Bedroom": 5,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/629849297.jpg?k=fce626bc1005dac733499ccc6575ac8d8744516f1fe46c2d8fffbaa1bbd00bb0\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/604478761.jpg?k=6acdfb29a695b793f479e3074723363952b3315984cb9a4d3349af0697d536ff\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/606291171.jpg?k=d09d546c79642b430d406c8c7579bb8e9f1abb48fc7f93ee176cef189b2a17ca\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/604478734.jpg?k=37cfa0897f682f9782b12b22ccb3146d43da3b00334a22230c861d7f077751d4\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/606291177.jpg?k=b7ef40c00c4e8159f793661546de7ab22c029197ea910f36f5873de30dfd4a18\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/629849297.jpg?k=fce626bc1005dac733499ccc6575ac8d8744516f1fe46c2d8fffbaa1bbd00bb0\u0026o=\u0026hp=1",
+        "HotelID": "us/sheraton-brooklyn-new-york",
+        "HotelName": "Sheraton Brooklyn New York",
+        "ID": 84,
+        "IDHotel": 235242,
+        "Location": "Brooklyn, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$923.20",
+        "PropertyType": "Hotels",
+        "Rating": 7.3,
+        "ReviewCount": 2592
+      },
+      "id:2377246": {
+        "Amenities": [
+          ""
+        ],
+        "Bedroom": 0,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/219850480.jpg?k=dc48c8e0205ce93ca6ce8f69f94a96f7d50fbc17d9f38a841439a85e8aa6dd7d\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/151931018.jpg?k=c48a93a1908d38ab4aad361516e0a6254d3bde0eab29d40c7017bdd1bb528a88\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/98606205.jpg?k=d43d98ecc1ee31d28ab5581ead44d79b8f8ff803725149c3c6820b3e52649d64\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/151931606.jpg?k=a2c499ac7fdb1667afa30abb6bbf2f832d28d9105a1f2782c91f0fc6e126cb4d\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/151931410.jpg?k=17d90d728a5a063530e434e6736f48558e053d252824c63a334cd318962ff1ff\u0026o=\u0026hp=1"
+        ],
+        "Guests": 0,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/219850480.jpg?k=dc48c8e0205ce93ca6ce8f69f94a96f7d50fbc17d9f38a841439a85e8aa6dd7d\u0026o=\u0026hp=1",
+        "HotelID": "us/pod-brooklyn",
+        "HotelName": "Pod Brooklyn",
+        "ID": 89,
+        "IDHotel": 2377246,
+        "Location": "Brooklyn, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$742.90",
+        "PropertyType": "",
+        "Rating": 8.3,
+        "ReviewCount": 5386
+      },
+      "id:260798": {
+        "Amenities": [
+          ""
+        ],
+        "Bedroom": 0,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/626525330.jpg?k=5a5b750ef65c03bbf781917556350d8009d7068e70f590663acfeb0eeadbcbb3\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/616964397.jpg?k=b3b28b8b13e5bb0a547db87c44c13b361a6f828096362cf20ecda789fdc987f4\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/616959228.jpg?k=7c51fbf4d4a94a3e9aa1eeecc8c7383cd1b953a732dd3a09c43d3ab86e50389a\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/616957177.jpg?k=c16a202869e7273d4351a79eea384b38ee84b29712371f5862a69979c405546f\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/616962947.jpg?k=f4e9ced307c31c3a92a6e5a0886e616e1c32cccb997e629d90878bc5ba605387\u0026o=\u0026hp=1"
+        ],
+        "Guests": 0,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/626525330.jpg?k=5a5b750ef65c03bbf781917556350d8009d7068e70f590663acfeb0eeadbcbb3\u0026o=\u0026hp=1",
+        "HotelID": "us/aloft-brooklyn",
+        "HotelName": "Aloft New York Brooklyn",
+        "ID": 87,
+        "IDHotel": 260798,
+        "Location": "Brooklyn, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$891.20",
+        "PropertyType": "",
+        "Rating": 6.9,
+        "ReviewCount": 1263
+      },
+      "id:268584": {
+        "Amenities": [
+          ""
+        ],
+        "Bedroom": 0,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/407350097.jpg?k=6110831c0a35cd7ce0e45fc69f441325b4afa00224fe4125b4e6cb1f70aa4b6d\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/407350125.jpg?k=95dcd39da64921abd50b382660641765e922b9028144a44fadeb1540d8a32f14\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/407350163.jpg?k=4b4fe3ec6d356038364d29c21ec7b97cd44652e2c56add3c07a6def2f5412cea\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/407350106.jpg?k=f713c4322c19950da550c7ca4ab141a43c8df1f3c0f70f62b362dc7cd7712c03\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/407350113.jpg?k=4da729bc7a6e3a965f0f11ff71275630839edcf6fb8b1284b6ccdffdfb532e11\u0026o=\u0026hp=1"
+        ],
+        "Guests": 0,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/407350097.jpg?k=6110831c0a35cd7ce0e45fc69f441325b4afa00224fe4125b4e6cb1f70aa4b6d\u0026o=\u0026hp=1",
+        "HotelID": "us/best-western-gregory",
+        "HotelName": "Best Western Gregory Hotel",
+        "ID": 94,
+        "IDHotel": 268584,
+        "Location": "Brooklyn, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$761.58",
+        "PropertyType": "",
+        "Rating": 7.5,
+        "ReviewCount": 908
+      },
+      "id:285048": {
+        "Amenities": [
+          ""
+        ],
+        "Bedroom": 0,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/599341027.jpg?k=03fac96f1fc39cb3c5370113d92cf2913a7b31596a8f1ea00a0c342007e32acc\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/599341022.jpg?k=83bdf287c1b155284b5c9a466acef14010eabacebccd61a52fd606ae2962a37c\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/601713864.jpg?k=950737f64088b545e5418bbd97f47f42ee34ef447093f87b04888daff6a17224\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/599341033.jpg?k=cd0a39777730c19e66d82d9594e0f386f6e3e4d1ba9e84baf87c628529bc41a6\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/616123040.jpg?k=705aec8430bc0c35984bb6f9a68bdc2bd1bc653925a7df3ca886818f54db5be7\u0026o=\u0026hp=1"
+        ],
+        "Guests": 0,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/599341027.jpg?k=03fac96f1fc39cb3c5370113d92cf2913a7b31596a8f1ea00a0c342007e32acc\u0026o=\u0026hp=1",
+        "HotelID": "us/union-brooklyn",
+        "HotelName": "Essence hotel",
+        "ID": 91,
+        "IDHotel": 285048,
+        "Location": "Brooklyn, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$895.90",
+        "PropertyType": "",
+        "Rating": 6.3,
+        "ReviewCount": 57
+      },
+      "id:304373": {
+        "Amenities": [
+          ""
+        ],
+        "Bedroom": 0,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/194588472.jpg?k=16866705ac2425af245b11642bff933e89a0c5fc28457daeb3bffe01623edffd\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/194588064.jpg?k=eaf0f62baefc5893c1f992d82a1781a430cace5dc27ddef22847c0827cfb7e9d\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/194588507.jpg?k=33ecf0aeff27d46bb956da1ec9e40fa3784e9cb93cebbb6dafc2b4c7d39d1a73\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/194588525.jpg?k=ad605f30d35d51cfcac4a2cd5a67e822e9d55d7fc983afc54ab98b4c38b9fa8f\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/194588479.jpg?k=eebe3191bbf1257382107641c57c1a26720cef23f056c12f0e5d0dda5c392b89\u0026o=\u0026hp=1"
+        ],
+        "Guests": 0,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/194588472.jpg?k=16866705ac2425af245b11642bff933e89a0c5fc28457daeb3bffe01623edffd\u0026o=\u0026hp=1",
+        "HotelID": "us/la-quinta-inn-brooklyn-downtown",
+        "HotelName": "La Quinta by Wyndham Brooklyn Downtown",
+        "ID": 85,
+        "IDHotel": 304373,
+        "Location": "Brooklyn, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$909",
+        "PropertyType": "",
+        "Rating": 7.3,
+        "ReviewCount": 1830
+      },
+      "id:342281": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Facilities for disabled guests",
+          " Private Parking"
+        ],
+        "Bedroom": 1,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/445478741.jpg?k=8164222e3e3afda469a9962949e1b57f4c0d29df0ba299cbdac307436bc208ab\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/401664397.jpg?k=13320a7c0d2c6ba2773cc2928641613f2fb2f18eef58701c856d25e5023e36f6\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/401664427.jpg?k=da61accd3cec403d81257fa0e061b308cfc66071f41e67966760eda292a2f398\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/401664379.jpg?k=792b603395aef06e67e173c33f766a408eeceab5c004a3ab906b07e9eb908d89\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/445478749.jpg?k=49c4d37fc7aeefb87c8c262fcaeb03f91f28f61be2a16bb44fa552f5cd9e5ef6\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/445478741.jpg?k=8164222e3e3afda469a9962949e1b57f4c0d29df0ba299cbdac307436bc208ab\u0026o=\u0026hp=1",
+        "HotelID": "us/the-lodge-red-hook",
+        "HotelName": "The Lodge Red Hook",
+        "ID": 82,
+        "IDHotel": 342281,
+        "Location": "Brooklyn, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$739.55",
+        "PropertyType": "Hotels",
+        "Rating": 8.2,
+        "ReviewCount": 3579
+      },
+      "id:344348": {
+        "Amenities": [
+          ""
+        ],
+        "Bedroom": 0,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/384414771.jpg?k=59edce9409a874bffe32360f58527d6aefc21fb50800759ce2df4dfe3e43d8b1\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/384414825.jpg?k=6c29c07d3054d13e56be8bddc09e54306d53edf8f87120c9192484d91c4de66b\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/407859242.jpg?k=d024ff8d827527ea89138a587ae71a14e29eb7d9b135fb82f5470445a88d0d11\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/384416798.jpg?k=e8bb4d4978dbf0c80a7f5afc6ce6d3dbf97d961fefeb3b43fd6315468e85abfc\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/388247053.jpg?k=5371bc172a0a3af34f9de22e9f9b30762e7441cbdc26760c2557593c4acec0d2\u0026o=\u0026hp=1"
+        ],
+        "Guests": 0,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/384414771.jpg?k=59edce9409a874bffe32360f58527d6aefc21fb50800759ce2df4dfe3e43d8b1\u0026o=\u0026hp=1",
+        "HotelID": "us/mccarren-hotel-and-pool-chelsea-hotels",
+        "HotelName": "CODA Williamsburg",
+        "ID": 99,
+        "IDHotel": 344348,
+        "Location": "Brooklyn, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$922.50",
+        "PropertyType": "",
+        "Rating": 7.5,
+        "ReviewCount": 750
+      },
+      "id:358297": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Facilities for disabled guests",
+          " Free parking"
+        ],
+        "Bedroom": 10,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/502900597.jpg?k=3ae5f91fab7bc7b3bb4d902d4d85f7d97a655c0aa5769cb2a38b83c473b9d444\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/427527656.jpg?k=0d5b1114c92b656f6197ecbf32ad98f598fca699689d91c6f1113e481fdfd90e\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/502900558.jpg?k=8c5ed81c4dff8dbe4a5d18cf63c09ac8e6053176a227e283b4e7a8c14c32e49a\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/504291497.jpg?k=a5803477098cdbd2673b55bf18c07e82548f73b3db351221a211be9900dd3a83\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/502900574.jpg?k=0a6504bc40da30bd45fc261058405beb850d0bc18ca8e55fbd3cdd22237d6b6c\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/502900597.jpg?k=3ae5f91fab7bc7b3bb4d902d4d85f7d97a655c0aa5769cb2a38b83c473b9d444\u0026o=\u0026hp=1",
+        "HotelID": "us/ny-moore-hostel",
+        "HotelName": "NY Moore Hostel",
+        "ID": 83,
+        "IDHotel": 358297,
+        "Location": "Brooklyn, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$268",
+        "PropertyType": "Hostels",
+        "Rating": 8.2,
+        "ReviewCount": 2437
+      },
+      "id:4541995": {
+        "Amenities": [
+          "Non-smoking rooms",
+          " Free parking",
+          " Private Parking"
+        ],
+        "Bedroom": 1,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/611937447.jpg?k=ca66026ce4a60dcbdf89e61f24b71e80593e0993b8ac3725d6376bfdf8cc85bf\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/179099653.jpg?k=75fb3c63b2146e8210d3f63973ef33cdbda5836db315a436524df82faa9ef6ba\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/179099694.jpg?k=7eff9d49806ae4245ecadf87a273abce36a56db917b677c6d638a3487cd79ae9\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/179099783.jpg?k=8c88f0e3ebf8153f282748c14b89435fd2b7f43a1f2f85f1372b6aac9365690b\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/179099692.jpg?k=a27fd2529380c726b01dafe0f1538ef63bb3edab59111ae34aa1364d50904da0\u0026o=\u0026hp=1"
+        ],
+        "Guests": 1,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/611937447.jpg?k=ca66026ce4a60dcbdf89e61f24b71e80593e0993b8ac3725d6376bfdf8cc85bf\u0026o=\u0026hp=1",
+        "HotelID": "us/the-l-hotel-an-ascend-hotel-collection-member",
+        "HotelName": "The L Hotel",
+        "ID": 81,
+        "IDHotel": 4541995,
+        "Location": "Brooklyn, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$606.60",
+        "PropertyType": "Hotels",
+        "Rating": 7.3,
+        "ReviewCount": 2479
+      },
+      "id:4905928": {
+        "Amenities": [
+          ""
+        ],
+        "Bedroom": 0,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/234153110.jpg?k=b1e3d67bb84f86f5541228e33c2a640ea541ae802eb7ef59a160344ba42f8274\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/252475408.jpg?k=5180d70d4ce9204a7e2387fd28615ba1b284906a79630287b8dace8abeabf0cc\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/235056523.jpg?k=e44286162c47c81f24590b7fe85557ca2b5fdc6883f885643100b3512ee9bbf2\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/469481280.jpg?k=42b39f7497194f3910afe39253ac9e63b62fbe2b6de4f3e1dbc421987d371cdb\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/234153115.jpg?k=5d6eb3a99e4ec1f388937efd09b8d273247500b6984ca59e0e8e7a279013099f\u0026o=\u0026hp=1"
+        ],
+        "Guests": 0,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/234153110.jpg?k=b1e3d67bb84f86f5541228e33c2a640ea541ae802eb7ef59a160344ba42f8274\u0026o=\u0026hp=1",
+        "HotelID": "us/indigo-williamsburg-brooklyn",
+        "HotelName": "Hotel Indigo - Williamsburg - Brooklyn, an IHG Hotel",
+        "ID": 101,
+        "IDHotel": 4905928,
+        "Location": "Brooklyn, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$1,116.72",
+        "PropertyType": "",
+        "Rating": 7.9,
+        "ReviewCount": 1002
+      },
+      "id:55974": {
+        "Amenities": [
+          ""
+        ],
+        "Bedroom": 0,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/13866256.jpg?k=7af99886ae66bf6a2501e70e7a975d12d18d474bd7d1306dacc7504578b4b5d3\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/13866260.jpg?k=02224ac73b2345ddffc9ce63090628ed8bb269fbd387296fec3cfbcd8a9eb475\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/13885005.jpg?k=116d62e73c7e2688ccf5e9ce13b7a79d155d025caa85cc990577bcb67f2deae5\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/13866320.jpg?k=5491e67f69236644b8f7cf3af8c1f678fde77c270397cf1870706f38ce1d0185\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/13866271.jpg?k=a8fceafd37dbdb8de93d486017919c65f9a94b1d37074fd5f229728a8f7ec90a\u0026o=\u0026hp=1"
+        ],
+        "Guests": 0,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/13866256.jpg?k=7af99886ae66bf6a2501e70e7a975d12d18d474bd7d1306dacc7504578b4b5d3\u0026o=\u0026hp=1",
+        "HotelID": "us/red-carpet-inn",
+        "HotelName": "Red Carpet Inn Brooklyn",
+        "ID": 96,
+        "IDHotel": 55974,
+        "Location": "Brooklyn, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$534.60",
+        "PropertyType": "",
+        "Rating": 3.5,
+        "ReviewCount": 186
+      },
+      "id:6418707": {
+        "Amenities": [
+          ""
+        ],
+        "Bedroom": 0,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/253095214.jpg?k=620d901b6c89adc73165864bc0aa59c5c6f19d3d745c57f4e3bf5133e84a784d\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/253242598.jpg?k=cc8bd144e8a0dfe3011466f8ce5dc9d7f3779f6d4bf09632a2ca96ff89a0a0ef\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/445260398.jpg?k=52e646a4a8264bc95b1bf354ed8f0bee6caaf469d6d16cb0ee498ae2c0490088\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/356082539.jpg?k=f08b344b145ecbd4e2138dccc7fd12788839c7a1acf6eb68527e7a6a3a613489\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/253091845.jpg?k=6abd0c034c3271fb418872c83c08f85599a4e41313a4bfbbde86114e961c602d\u0026o=\u0026hp=1"
+        ],
+        "Guests": 0,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/253095214.jpg?k=620d901b6c89adc73165864bc0aa59c5c6f19d3d745c57f4e3bf5133e84a784d\u0026o=\u0026hp=1",
+        "HotelID": "us/the-hoxton-williamsburg",
+        "HotelName": "The Hoxton, Williamsburg",
+        "ID": 104,
+        "IDHotel": 6418707,
+        "Location": "Brooklyn, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$1,788.40",
+        "PropertyType": "",
+        "Rating": 8,
+        "ReviewCount": 762
+      },
+      "id:7202083": {
+        "Amenities": [
+          ""
+        ],
+        "Bedroom": 0,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/376092434.jpg?k=f22f461983f1bfa1ef040efb75f4c32f7be10a37a2ec8167839676500fc1dcb9\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/443368979.jpg?k=0e7c5c397c7d55592442ae835493f0bcceec1794fccc178ee3b3376f18dcfae0\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/376093312.jpg?k=80e6c11e2a5d2027d1153104f9280a2deef83862c9cfb2e938270ce7e3363fbe\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/376098249.jpg?k=036b024978e44c73b6055bad1b9ba3394a5e7e04238f282b4ce360c006f5e54d\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/404238862.jpg?k=f9dbea69c28ccc33c37fb793d5cc5cedf79ca0f561bf0e6e714d20296e110755\u0026o=\u0026hp=1"
+        ],
+        "Guests": 0,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/376092434.jpg?k=f22f461983f1bfa1ef040efb75f4c32f7be10a37a2ec8167839676500fc1dcb9\u0026o=\u0026hp=1",
+        "HotelID": "us/ace-brooklyn",
+        "HotelName": "Ace Hotel Brooklyn",
+        "ID": 102,
+        "IDHotel": 7202083,
+        "Location": "Brooklyn, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$2,254",
+        "PropertyType": "",
+        "Rating": 8.8,
+        "ReviewCount": 1642
+      },
+      "id:8328938": {
+        "Amenities": [
+          ""
+        ],
+        "Bedroom": 0,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/349400904.jpg?k=3f92f99adaccbd3dadb73b8b1e3cab4ace8ab35927afc262cd976c4c170b5292\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/525270633.jpg?k=778df4208d182cd1a1ea36ef21126a310e234ccf8fc1a65ac89de21e2f2d7476\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/525270681.jpg?k=05b519257df2b51f75aa30b178005d95e35fa0439159bb5445bf5d1ca0105447\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/347507323.jpg?k=0e337924e387f518b7e3e7d972e5c7c90fd6bd0a2f5ca76e8e157666ea87a732\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/525271993.jpg?k=8d8a12a27a89ed74fb467fdfcdbcccf68c380d157f215c1539bf8d01212d9fc7\u0026o=\u0026hp=1"
+        ],
+        "Guests": 0,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/349400904.jpg?k=3f92f99adaccbd3dadb73b8b1e3cab4ace8ab35927afc262cd976c4c170b5292\u0026o=\u0026hp=1",
+        "HotelID": "us/liberty-view-brooklyn",
+        "HotelName": "Liberty View Brooklyn Hotel",
+        "ID": 93,
+        "IDHotel": 8328938,
+        "Location": "Brooklyn, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$836.40",
+        "PropertyType": "",
+        "Rating": 8.3,
+        "ReviewCount": 2277
+      },
+      "id:877818": {
+        "Amenities": [
+          ""
+        ],
+        "Bedroom": 0,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/258932586.jpg?k=ec25382d8fa471770af44aa00e8ea38f2ab2c801356bd7035710d4426c0bd5ff\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/257113745.jpg?k=4da371d7cf4d206ddd2541a73ccc2231082d4125d85abf6f6400e9a8c08dda63\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/257111168.jpg?k=b7b893407739188e8d2098a6df7ef449520e11ab7850443aca708f0c9226a4df\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/257112203.jpg?k=928f1a5bc4e0be336459ed32dadbc329c7683e9861e942cddd1d9409dbed23e6\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/257113971.jpg?k=6b0a86152d8769bda63aaa74119142f089edd17049c5907f7b49db9147c2b249\u0026o=\u0026hp=1"
+        ],
+        "Guests": 0,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/258932586.jpg?k=ec25382d8fa471770af44aa00e8ea38f2ab2c801356bd7035710d4426c0bd5ff\u0026o=\u0026hp=1",
+        "HotelID": "us/the-henry-norman",
+        "HotelName": "Henry Norman Hotel",
+        "ID": 98,
+        "IDHotel": 877818,
+        "Location": "Brooklyn, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 2,
+        "Price": "$1,384.06",
+        "PropertyType": "",
+        "Rating": 9,
+        "ReviewCount": 2252
+      },
+      "id:9782931": {
+        "Amenities": [
+          ""
+        ],
+        "Bedroom": 0,
+        "Gallery": [
+          "https://cf.bstatic.com/xdata/images/hotel/max200/511673730.jpg?k=beb444f0af461f295cf4cd63eeb961cac0bbb8534161adb1d05b4cafc217687b\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/506684798.jpg?k=90e4ec5d46166fda9260da61cb84283d0e31360041bfcb799fa4681eb4acc775\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/511673728.jpg?k=f31b4b81709c8411b0bc4cdc32351e9be1459aa54484fb11890e7d8edca2b253\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/511673725.jpg?k=32e7b8220a000ede39b322ae3861e320d441d5d1bce6dd199ff5e0e8dcb97c89\u0026o=\u0026hp=1",
+          "https://cf.bstatic.com/xdata/images/hotel/max200/506352188.jpg?k=f26b66a754e5d5346e7bb07546a66b0f75507ee52eaab2af9b1d63e797e40c12\u0026o=\u0026hp=1"
+        ],
+        "Guests": 0,
+        "HeroImage": "https://cf.bstatic.com/xdata/images/hotel/max200/511673730.jpg?k=beb444f0af461f295cf4cd63eeb961cac0bbb8534161adb1d05b4cafc217687b\u0026o=\u0026hp=1",
+        "HotelID": "us/avid-hotels-brooklyn-dyker-heights-an-ihg",
+        "HotelName": "avid hotels - Brooklyn Dyker Heights, an IHG Hotel",
+        "ID": 95,
+        "IDHotel": 9782931,
+        "Location": "Brooklyn, New York, United States",
+        "NumBaths": 0,
+        "NumBedR": 0,
+        "NumBeds": 1,
+        "Price": "$738.06",
+        "PropertyType": "",
+        "Rating": 8.9,
+        "ReviewCount": 998
+      }
+    }
+  ]

@@ -23,4 +23,5 @@ func init() {
     // Property listing endpoint
     web.Router("/v1/property/list", &controllers.PropertyController{})
     web.Router("/v1/property/details", &controllers.PropertyDetailsController{})
+    web.Router("/v1/property/location", &controllers.PropertyLocationController{})
 }

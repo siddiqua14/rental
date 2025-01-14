@@ -18,6 +18,62 @@ type StayData struct {
     apiBaseUrl string
     apiKey     string
 }
+type HotelDetails struct {
+    IDHotel     int     `json:"id_hotel"`
+    HotelID     string  `json:"hotel_id"`
+    HotelName   string  `json:"hotel_name"`
+    DestID      string  `json:"dest_id"`
+    Location    string  `json:"location"`
+    Rating      float64 `json:"rating"`
+    ReviewCount int     `json:"review_count"`
+    Price       string  `json:"price"`
+    NumBeds     int     `json:"num_beds"`
+    NumBedR     int     `json:"num_bedrooms"`
+    NumBaths    int     `json:"num_bathrooms"`
+}
+type APIResponse struct {
+    Data struct {
+        Results []struct {
+            ID               string `json:"id"`
+            BasicPropertyData struct {
+                ID      int `json:"id"`
+                Reviews struct {
+                    TotalScore   float64 `json:"totalScore"`
+                    ReviewsCount int     `json:"reviewsCount"`
+                } `json:"reviews"`
+                
+            } `json:"basicPropertyData"`
+            Location struct {
+                DisplayLocation string `json:"displayLocation"`
+            } `json:"location"`
+            DisplayName struct {
+                Text string `json:"text"`
+            } `json:"displayName"`
+            MatchingUnitConfigurations struct {
+                CommonConfiguration struct {
+                    NbAllBeds   int `json:"nbAllBeds"`
+                    NbAllBedR   int `json:"nbBedrooms"`
+                    NbBathrooms int `json:"nbBathrooms"`
+                } `json:"commonConfiguration"`
+            } `json:"matchingUnitConfigurations"`
+            PriceDisplayInfoIrene struct {
+                DisplayPrice struct {
+                    AmountPerStay struct {
+                        Amount string `json:"amount"`
+                    } `json:"amountPerStay"`
+                } `json:"displayPrice"`
+            } `json:"priceDisplayInfoIrene"`
+        } `json:"results"`
+    } `json:"data"`
+    Meta struct {
+        CurrentPage   int `json:"currentPage"`
+        Limit        int `json:"limit"`
+        TotalRecords int `json:"totalRecords"`
+        TotalPage    int `json:"totalPage"`
+    } `json:"meta"`
+    Status  bool   `json:"status"`
+    Message string `json:"message"`
+}
 
 // Init function to initialize apiBaseUrl and apiKey
 func (c *StayData) Init(ctx *context.Context, controllerName, actionName string, app interface{}) {
