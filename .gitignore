@@ -25,5 +25,4 @@ Thumbs.db
 *.test
 *.out
 *.sum
-/conf
-/*.conf
+/conf/
