@@ -15,13 +15,21 @@ import (
 
 func init() {
 
-    web.Router("/fetch_locations", &controllers.LocationController{})
+    //web.Router("/fetch_locations", &controllers.LocationController{})
 	//web.Router("/fetch_stays_data", &controllers.StayData{})
     //web.Router("/fetch-hotel-details", &controllers.FetchHotelDetails{})
     //web.Router("/fetch-hotel-images-and-description", &controllers.FetchHotelImagesAndDescriptions{})
     // Page route
     // Property listing endpoint
-    web.Router("/v1/property/list", &controllers.PropertyController{})
-    web.Router("/v1/property/details", &controllers.PropertyDetailsController{})
-    web.Router("/v1/property/location", &controllers.PropertyLocationController{})
+    ns := web.NewNamespace("/v1",
+    // Group routes under the /property namespace
+    web.NSNamespace("/property",
+        web.NSRouter("/list", &controllers.PropertyController{}),
+        web.NSRouter("/details", &controllers.PropertyDetailsController{}),
+        web.NSRouter("/location", &controllers.PropertyLocationController{}),
+    ),
+)
+
+// Register the namespace with the Beego router
+web.AddNamespace(ns)
 }
